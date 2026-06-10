@@ -39,7 +39,7 @@ check_out_columns = [
 ]
 
 # Stop attendance calculations/display at this column so future days are excluded.
-ATTENDANCE_END_COLUMN = "29 May Check out"
+ATTENDANCE_END_COLUMN = "5 June Check out"
 if ATTENDANCE_END_COLUMN in check_out_columns:
     end_idx = check_out_columns.index(ATTENDANCE_END_COLUMN) + 1
     check_in_columns = check_in_columns[:end_idx]
@@ -68,6 +68,7 @@ JOB_CAPS = {
     "Practitioner": 6.0,
     "ZZ ECD Coach": 3.5,
     "Zazi Izandi Coach": 3.5,
+    "Literacy Coach ECD": 5,
 }
 
 LITERACY_TITLES = {"Literacy Coach", "Literacy Coaches (ZZ)"}
