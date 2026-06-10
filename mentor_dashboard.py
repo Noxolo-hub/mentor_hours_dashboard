@@ -283,11 +283,7 @@ styled_table_df = attendance_df.style.apply(
 
 st.dataframe(styled_table_df)
 
-st.error("N.B. IF YOU DO NOT SYNC DAILY, YOUR UNSYNCED HOURS WILL NOT REFLECT ON THE APP")
-
-
-
-
+# st.error("N.B. IF YOU DO NOT SYNC DAILY, YOUR UNSYNCED HOURS WILL NOT REFLECT ON THE APP")
 
 
 
