@@ -1,358 +1,358 @@
 Employee ID,First Name,Last Name,Job Title,Site Type,Rate,Masi/TLT Youth,Masi/Rural,Mentor,21 May,22 May,23 May,24 May,25 May,26 May,27 May,28 May,29 May,30 May,31 May,1 Jun,2 Jun,3 Jun,4 Jun,5 Jun,6 Jun,7 Jun,8 Jun,9 Jun,10 Jun,11 Jun,12 Jun,13 Jun,14 Jun,15 Jun,16 Jun,17 Jun,18 Jun,19 Jun,Check,Total no. of hours,Total no. of days,Check,Amount Owed
-678,Onwabile,Bebe,Literacy Coach,ECDCs,32.01,TLT,Masi,Ziyanda Fayindlala,5.5,5.5,,,0,5.5,5.5,5.5,5,,,5,5.5,0,0,1,,,0,0,0,0,0,,,0,0,0,0,0,,44,9,9," R 1,408.44 "
-586,Winnifred Henrietta,Walters,Literacy Coach,ECDCs,32.01,TLT,Masi,Ziyanda Fayindlala,5.5,5,,,5.5,5.5,5.5,5.5,5,,,5,0,0,0,5.5,,,0,0,0,0,0,,,0,0,0,0,0,,48,9,10," R 1,536.48 "
-963,Amyolise,Booi,Literacy Coach,Primary Schools,32.01,Masi,Masi,Faith Bolothi,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,0,0,0,0,0,,,0,0,0,0,0,,45,10,10," R 1,440.45 "
-525,Lizalisi,Baliwe,Literacy Coach,ECDCs,32.01,TLT,Masi,Ziyanda Fayindlala,5.5,5.5,,,5.5,5.5,5.5,5.5,0,,,5.5,5.5,0,0,5.5,,,0,0,0,0,0,,,0,0,0,0,0,,49.5,9,9," R 1,584.50 "
-695,Jennelee Ruth,Noah,Literacy Coaches (ZZ),Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,4.5,4.5,,,4.5,4.5,2.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,0,0,0,0,0,,,0,0,0,0,0,,43,10,10," R 1,376.43 "
-942,Kariena,Tsaoane,Literacy Coach,Primary Schools,32.01,Masi,Rural,Kariena Tsaoane,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,40.5,9,9," R 1,296.41 "
-1052,Onwaba,Jonas,Literacy Coach,Primary Schools,32.01,TLT,Masi,Faith Bolothi,4.5,4.5,,,0,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,0,0,0,0,0,,,0,0,0,0,0,,40.5,9,10," R 1,296.41 "
-1143,Khanya,Xipula,Literacy Coach,ECDCs,32.01,TLT,Masi,Ziyanda Fayindlala,5.5,5.5,,,5.5,5.5,5.5,5.5,5.5,,,5.5,5.5,1.5,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,51,10,10," R 1,632.51 "
-1246,Busisiwe,Kuhlane,Literacy Coach,ECDCs,32.01,TLT,Masi,Ziyanda Fayindlala,5.5,0,,,5.5,5.5,5.5,5.5,5.5,,,5.5,5.5,0,0,5.5,,,0,0,0,0,0,,,0,0,0,0,0,,49.5,9,9," R 1,584.50 "
-1089,Siphosethu,Njibana,Literacy Coach ECD,ECDCs,32.01,TLT,Masi,Faith Bolothi,0,0,,,5,5,5,0,5,,,4.5,5,0,0,5,,,0,0,0,0,0,,,0,0,0,0,0,,34.5,7,7," R 1,104.35 "
-1057,Anelisa,Burwana,Literacy Coach,Primary Schools,32.01,TLT,Masi,Faith Bolothi,0,0,,,4.5,4.5,0,0,0,,,0,4.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,13.5,3,3, R 432.14 
-1124,Bulumko,TsengIwe,Literacy Coach,ECDCs,32.01,TLT,Masi,Ziyanda Fayindlala,5.5,0,,,5.5,5.5,5.5,5.5,5.5,,,5.5,5.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,44,8,9," R 1,408.44 "
-939,Natoline,Taker,Literacy Coach,ECDCs,32.01,Masi,Rural,Kariena Tsaoane,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,0,0,0, R -   
-1072,Sibongile,Putulu,Literacy Coach,Primary Schools,32.01,TLT,Masi,Faith Bolothi,4.5,4.5,,,4.5,4.5,4.5,4,4.5,,,4.5,4.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,40,9,9," R 1,280.40 "
-1094,Boniswa,Ndzuta,Literacy Coach,Primary Schools,32.01,TLT,Masi,Faith Bolothi,4.5,4.5,,,3,4.5,4.5,4.5,4.5,,,0,4.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,34.5,8,8," R 1,104.35 "
-1083,Kholiswa,Williams,Literacy Coach,Primary Schools,32.01,Masi,Masi,Faith Bolothi,4.5,0,,,4.5,4.5,4.5,4.5,4.5,,,0,4.5,0,0,4.5,,,0,0,0,0,0,,,0,0,0,0,0,,36,8,8," R 1,152.36 "
-1251,Simamkele,Sali,Literacy Coach,Primary Schools,32.01,Masi,Rural,Simamkele Sali,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,40.5,9,9," R 1,296.41 "
-446,Yibanati,Mpumlwana,Literacy Coach,ECDCs,32.01,TLT,Masi,Ziyanda Fayindlala,0,0,,,5.5,5.5,5.5,5.5,5.5,,,5.5,5.5,0,0,2.5,,,0,0,0,0,0,,,0,0,0,0,0,,41,8,8," R 1,312.41 "
-1069,Kuselo,Mzozoyana,Literacy Coach,Primary Schools,32.01,TLT,Masi,Ziyanda Fayindlala,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,40.5,9,9," R 1,296.41 "
-1076,Zizipho,Mbubela,Literacy Coach,Primary Schools,32.01,TLT,Masi,Faith Bolothi,0,0,,,0,0,0,0,0,,,4.5,4.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,9,2,2, R 288.09 
-1123,Siyolise Nwabisa,Kume,Literacy Coach,Primary Schools,32.01,TLT,Masi,Faith Bolothi,4.5,4.5,,,1.5,4.5,4.5,4.5,4.5,,,0,4.5,0,0,4.5,,,0,0,0,0,0,,,0,0,0,0,0,,37.5,9,9," R 1,200.38 "
-1155,Chulumanco,Nywebeni,ZZ ECD Coach,ECDCs,32.01,TLT,Rural,Busisiwe Ndlela,5.5,5.5,,,5.5,5.5,5.5,5.5,5.5,,,5.5,5.5,5.5,5.5,5.5,,,0,0,0,0,0,,,0,0,0,0,0,,66,12,12," R 2,112.66 "
-1332,Sivenathi,Mtana,Literacy Coach,Primary Schools,32.01,TLT,Masi,Faith Bolothi,4.5,4,,,4.5,0,0,0,0,,,0,4.5,0,0,4.5,,,0,0,0,0,0,,,0,0,0,0,0,,22,5,5, R 704.22 
-1336,Hlelokuhle,Ngqokwe,Literacy Coaches (ZZ),Primary Schools,32.01,TLT,Masi,Rayvial Coetzee,4.5,4.5,,,0,4.5,4.5,0,4.5,,,4.5,4.5,0,0,4.5,,,0,0,0,0,0,,,0,0,0,0,0,,36,8,9," R 1,152.36 "
-1388,Athule,Fihla,Literacy Coach,Primary Schools,32.01,TLT,Masi,Faith Bolothi,4.5,4.5,,,4.5,4.5,4,4.5,4.5,,,4.5,4.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,40,9,9," R 1,280.40 "
-1470,Xolelwa,Marambana,Literacy Coach,Primary Schools,32.01,TLT,Masi,Faith Bolothi,4.5,0,,,4.5,4,4.5,4.5,4,,,4.5,4.5,0,0,4.5,,,0,0,0,0,0,,,0,0,0,0,0,,39.5,9,9," R 1,264.40 "
-1300,Alutha,Kula,Literacy Coach,Primary Schools,32.01,TLT,Masi,Faith Bolothi,4.5,4,,,0,0,0,0,0,,,4,4.5,0,0,4.5,,,0,0,0,0,0,,,0,0,0,0,0,,21.5,5,5, R 688.22 
-1334,Lisakhanya,Myoli,EduTech Coach,Primary Schools,32.01,TLT,Masi,Neliswa Skosana,3.5,3.5,,,3.5,3.5,0,3.5,3.5,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,31.5,9,9," R 1,008.32 "
-1463,Siphosihle Angel,Boloti,EduTech Coach,Primary Schools,32.01,TLT,Masi,Neliswa Skosana,3.5,3.5,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,31.5,9,9," R 1,008.32 "
-944,Siyanda,Gaxamba,Literacy Coach,ECDCs,32.01,TLT,Masi,Ziyanda Fayindlala,5,0,,,5.5,5,5,5.5,4,,,5,5.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,40.5,8,8," R 1,296.41 "
-1472,Nopasika,Mbali,ZZ ECD Coach,ECDCs,32.01,TLT,Masi,Andiswa Manona,3.5,0,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,24.5,7,7, R 784.25 
-1471,Shaan Shaheeda,Ismail,Literacy Coaches (ZZ),Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,0,4.5,0,0,4.5,,,0,0,0,0,0,,,0,0,0,0,0,,40.5,9,9," R 1,296.41 "
-1467,Gizelle Leante,Simons,Literacy Coaches (ZZ),Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,4.5,4.5,,,4.5,4.5,4.5,4.5,0,,,0,4.5,0,0,4.5,,,0,0,0,0,0,,,0,0,0,0,0,,36,8,8," R 1,152.36 "
-1465,Megan Robin,Goldman,Literacy Coaches (ZZ),Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,4.5,4.5,,,4.5,0,4.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,0,0,0,0,0,,,0,0,0,0,0,,40.5,9,9," R 1,296.41 "
-1100,Namhla,Nqono,EduTech Coach,Primary Schools,32.01,TLT,Masi,Neliswa Skosana,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,31.5,9,9," R 1,008.32 "
-1281,Ntombizanele,Solani,Literacy Coach,ECDCs,32.01,TLT,Masi,Ziyanda Fayindlala,5.5,5,,,5.5,5.5,5.5,5.5,5.5,,,5.5,5.5,0,0,1.5,,,0,0,0,0,0,,,0,0,0,0,0,,50.5,10,10," R 1,616.51 "
-1464,Sipho Esihle,Yose,Literacy Coach,ECDCs,32.01,TLT,Masi,Ziyanda Fayindlala,5.5,5.5,,,5.5,5.5,5.5,5.5,5.5,,,5.5,5.5,0,0,5.5,,,0,0,0,0,0,,,0,0,0,0,0,,55,10,10," R 1,760.55 "
-1476,Zanele,Zephe,ZZ ECD Coach,ECDCs,32.01,TLT,Masi,Sibonokuhle Lugogo,3.5,0,,,4.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,25.5,7,7, R 816.26 
-1416,Esoyolo,Siganga,ZZ ECD Coach,ECDCs,32.01,TLT,Rural,Busisiwe Ndlela,5.5,5.5,,,5.5,5.5,5.5,3,5.5,,,0,5.5,5.5,5.5,5.5,,,0,0,0,0,0,,,0,0,0,0,0,,58,11,11," R 1,856.58 "
-1304,Zikhona,Dingile,ZZ ECD Coach,ECDCs,32.01,TLT,Rural,Busisiwe Ndlela,5.5,5.5,,,5.5,5.5,5.5,5.5,4.5,,,5.5,5.5,5.5,5.5,5.5,,,0,0,0,0,0,,,0,0,0,0,0,,65,12,12," R 2,080.65 "
-1311,Chantell,Sparks,ZZ ECD Coach,ECDCs,32.01,TLT,Rural,Busisiwe Ndlela,5.5,5.5,,,5.5,5.5,5.5,5.5,5.5,,,5.5,5.5,5.5,5.5,5.5,,,0,0,0,0,0,,,0,0,0,0,0,,66,12,12," R 2,112.66 "
-1385,Nwabisa,Dyumani,Literacy Coach,Primary Schools,32.01,TLT,Rural,Busisiwe Ndlela,4.5,4.5,,,4.5,4,4.5,4.5,0,,,0,0,4.5,4.5,4.5,,,0,0,0,0,0,,,0,0,0,0,0,,40,9,9," R 1,280.40 "
-1480,Liyema,Stemele,Literacy Coach,Primary Schools,32.01,TLT,Rural,Busisiwe Ndlela,4.5,4.5,,,4,4.5,4.5,4.5,3.5,,,4,4,4,4,0,,,0,0,0,0,0,,,0,0,0,0,0,,46,11,11," R 1,472.46 "
-1273,Yamkela,Skiti,Literacy Coach,Primary Schools,32.01,Masi,Rural,Kariena Tsaoane,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,40.5,9,9," R 1,296.41 "
-1459,Sonja Valenina,Jantjies,Literacy Coach,Primary Schools,32.01,Masi,Rural,Kariena Tsaoane,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,40.5,9,9," R 1,296.41 "
-1449,Sindiswa,Nompondo,Literacy Coach,ECDCs,32.01,Masi,Rural,Kariena Tsaoane,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,0,0,0, R -   
-1288,Juliana Ayanda,Kalipa,Literacy Coach,Primary Schools,32.01,Masi,Rural,Kariena Tsaoane,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,40.5,9,9," R 1,296.41 "
-1295,Nangamso Nicole,Sigqakaza,Literacy Coach ECD,ECDCs,32.01,TLT,Masi,Hlumelo Sikula,5,5,,,5,3.5,3.5,4.5,5,,,5,5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,41.5,9,9," R 1,328.42 "
-1255,Sinazo Precious,Ompi,1000 Stories Youth,Primary Schools,32.01,TLT,Masi,Neliswa Skosana,3.5,3.5,,,3.5,3.5,0,0,0,,,3.5,3.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,21,6,9, R 672.21 
-1278,Sanele Eveline,Kalipa,Literacy Coach,ECDCs,32.01,Masi,Rural,Kariena Tsaoane,5,5,,,5.5,0,5.5,5.5,5,,,5,5,0,0,2,,,0,0,0,0,0,,,0,0,0,0,0,,43.5,9,9," R 1,392.44 "
-1384,Sisipho,Ndzaba,ZZ ECD Coach,ECDCs,32.01,TLT,Rural,Busisiwe Ndlela,5.5,5.5,,,5.5,5.5,5.5,5.5,0,,,0,0,5.5,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,38.5,7,8," R 1,232.39 "
-1415,Litemba,Kilani,Literacy Coach,Primary Schools,32.01,TLT,Masi,Ziyanda Fayindlala,0,4.5,,,0,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,0,0,0,0,0,,,0,0,0,0,0,,36,8,8," R 1,152.36 "
-662,Hazel,Khumalo,Literacy Coach,ECDCs,32.01,Masi,Masi,Ziyanda Fayindlala,5.5,5.5,,,5.5,5.5,0,5,5.5,,,5.5,5.5,0,0,5.5,,,0,0,0,0,0,,,0,0,0,0,0,,49,9,9," R 1,568.49 "
-1487,Warneada,Johnson,Literacy Coaches (ZZ),Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,0,0,0,0,0,,,0,0,0,0,0,,45,10,10," R 1,440.45 "
-1528,Hlumelo,Hina,Literacy Coach,Primary Schools,32.01,Masi,Masi,Faith Bolothi,4.5,4.5,,,4.5,4.5,4.5,4.5,0,,,4.5,4.5,0,0,4.5,,,0,0,0,0,0,,,0,0,0,0,0,,40.5,9,9," R 1,296.41 "
-1706,Ntombentsha,Solomon,Literacy Coach,Primary Schools,32.01,TLT,Rural,Busisiwe Ndlela,4.5,4.5,,,4,4.5,4.5,4.5,3.5,,,4.5,0,4.5,4.5,4.5,,,0,0,0,0,0,,,0,0,0,0,0,,48,11,12," R 1,536.48 "
-1731,Sinovuyo,Nkosi,Literacy Coach,ECDCs,32.01,TLT,Masi,Ziyanda Fayindlala,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,0,0,0, R -   
-1728,Indibabale,Mabangula,Literacy Coach,Primary Schools,32.01,TLT,Masi,Faith Bolothi,4,4.5,,,4.5,4.5,4.5,4.5,4,,,4,4,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,38.5,9,9," R 1,232.39 "
-1708,Sikelelwa,Tsengiwe,Literacy Coach,Primary Schools,32.01,TLT,Masi,Faith Bolothi,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,0,0,0,0,0,,,0,0,0,0,0,,45,10,10," R 1,440.45 "
-1704,Liwomtha,Maswana,Literacy Coach,Primary Schools,32.01,Masi,Masi,Faith Bolothi,0,0,,,0,0,0,0,4.5,,,4.5,4.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,13.5,3,3, R 432.14 
-1719,Awonke,Qoto,Literacy Coach,Primary Schools,32.01,TLT,Masi,Ziyanda Fayindlala,4.5,4.5,,,4.5,4.5,4.5,0,3.5,,,4.5,0,0,0,4.5,,,0,0,0,0,0,,,0,0,0,0,0,,35,8,9," R 1,120.35 "
-1722,Thimna,Miti,Literacy Coach,Primary Schools,32.01,TLT,Masi,Ziyanda Fayindlala,3.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,0,4.5,0,0,4.5,,,0,0,0,0,0,,,0,0,0,0,0,,39.5,9,9," R 1,264.40 "
-1703,Iviwe,Mdliva,Literacy Coach,Primary Schools,32.01,TLT,Masi,Faith Bolothi,4.5,4.5,,,4.5,0,0,0,0,,,0,4.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,21.5,5,5, R 688.22 
-1735,Liyema,Bout,1000 Stories Youth,Primary Schools,32.01,TLT,Masi,Neliswa Skosana,3.5,0,,,2.5,3.5,3.5,3.5,0,,,0,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,23.5,7,7, R 752.24 
-1746,Alinda,Turwana,ZZ ECD Coach,ECDCs,32.01,TLT,Masi,Andiswa Manona,3,0,,,4,3.5,3.5,3.5,0,,,3.5,3.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,24.5,7,7, R 784.25 
-1745,Avela,Maliza,ZZ ECD Coach,ECDCs,32.01,TLT,Masi,Sibonokuhle Lugogo,3.5,0,,,3.5,3.5,0,3.5,0,,,3,3.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,20.5,6,6, R 656.21 
-1749,Abigail ,Champion,Literacy Coach,Primary Schools,32.01,Masi,Rural,Kariena Tsaoane,0,4.5,,,4.5,4.5,0,4.5,4.5,,,4.5,4.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,31.5,7,7," R 1,008.32 "
-1738,Qama ,Matutu,Literacy Coach,Primary Schools,32.01,Masi,Rural,Kariena Tsaoane,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,40.5,9,9," R 1,296.41 "
-1726,Sina,Witboi,Literacy Coach,Primary Schools,32.01,Masi,Rural,Kariena Tsaoane,4.5,4.5,,,4.5,0,4.5,4.5,4.5,,,4.5,4.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,36,8,8," R 1,152.36 "
-1758,Lathitha,Maso,Literacy Coach,Primary Schools,32.01,TLT,Rural,Busisiwe Ndlela,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,0,0,0,0,0,,,0,0,0,0,0,,54,12,12," R 1,728.54 "
-1755,Anathi,Ntamo,Literacy Coach,Primary Schools,32.01,TLT,Rural,Busisiwe Ndlela,4.5,0,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,0,0,0,0,0,,,0,0,0,0,0,,49.5,11,12," R 1,584.50 "
-1770,Zizipho,Diba,Literacy Coach,Primary Schools,32.01,TLT,Rural,Busisiwe Ndlela,4.5,0,,,4.5,4.5,4.5,4.5,4.5,,,4.5,0,4.5,4.5,4.5,,,0,0,0,0,0,,,0,0,0,0,0,,45,10,11," R 1,440.45 "
-1783,Simamkele,Dastile,ZZ ECD Coach,ECDCs,32.01,TLT,Masi,Andiswa Manona,3.5,0,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,24.5,7,7, R 784.25 
-1797,Aphiwe,Ntontela,ZZ ECD Coach,ECDCs,32.01,TLT,Masi,Andiswa Manona,3.5,0,,,3.5,3.5,3.5,3,0,,,0,3.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,20.5,6,7, R 656.21 
-1782,Lisakhanya,Kume,ZZ ECD Coach,ECDCs,32.01,TLT,Masi,Andiswa Manona,0,0,,,4,3.5,3.5,0,0,,,3.5,3.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,18,5,5, R 576.18 
-1803,Esihle,Yali,ZZ ECD Coach,ECDCs,32.01,TLT,Masi,Andiswa Manona,3.5,0,,,4,3.5,3.5,3.5,0,,,3.5,3.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,25,7,7, R 800.25 
-1804,Vuyokazi,Mafunga,ZZ ECD Coach,ECDCs,32.01,TLT,Masi,Andiswa Manona,0,0,,,4,3.5,3.5,3.5,0,,,3.5,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,18,5,5, R 576.18 
-1788,Simamkele,Ndyenga,Practitioner,ECDCs,32.01,TLT,Masi,Hlumelo Sikula,6,5.5,,,6,6,4,6,6,,,6,6,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,51.5,9,9," R 1,648.52 "
-1790,Asiphe,Boqwana,Literacy Coach,Primary Schools,32.01,TLT,Masi,Faith Bolothi,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,0,0,0,0,0,,,0,0,0,0,0,,45,10,10," R 1,440.45 "
-1787,Nomachule,Mbenga,Literacy Coach,Primary Schools,32.01,TLT,Masi,Faith Bolothi,4.5,4.5,,,4.5,0,4.5,4.5,4.5,,,4.5,4.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,36,8,8," R 1,152.36 "
-1793,Luvuse,Xelelwa,Literacy Coach,Primary Schools,32.01,TLT,Masi,Faith Bolothi,4.5,0,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,0,0,0,0,0,,,0,0,0,0,0,,40.5,9,10," R 1,296.41 "
-1792,Notiba,Vaaltyn,Literacy Coach,Primary Schools,32.01,TLT,Masi,Faith Bolothi,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,0,0,0,0,0,,,0,0,0,0,0,,45,10,10," R 1,440.45 "
-1570,Anesipho,Mda,Literacy Coach,Primary Schools,32.01,TLT,Masi,Faith Bolothi,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,0,0,0,0,0,,,0,0,0,0,0,,45,10,10," R 1,440.45 "
-1817,Liyema,Magawu,Literacy Coach,Primary Schools,32.01,TLT,Masi,Faith Bolothi,4.5,0,,,4.5,4.5,4,4.5,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,22,5,5, R 704.22 
-1811,Esethu,Mxokozela,Literacy Coach,Primary Schools,32.01,TLT,Masi,Ziyanda Fayindlala,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,0,0,0,0,0,,,0,0,0,0,0,,45,10,10," R 1,440.45 "
-1774,Sinazo,Matebese,Literacy Coach,ECDCs,32.01,TLT,Masi,Ziyanda Fayindlala,5.5,5.5,,,5.5,5.5,0,5.5,5.5,,,5.5,5.5,0,0,5.5,,,0,0,0,0,0,,,0,0,0,0,0,,49.5,9,10," R 1,584.50 "
-1778,Sihle,Sikwentu,Literacy Coach,ECDCs,32.01,TLT,Masi,Ziyanda Fayindlala,5.5,5,,,5.5,5,5.5,5.5,5.5,,,0,5.5,0,0,0.5,,,0,0,0,0,0,,,0,0,0,0,0,,43.5,9,9," R 1,392.44 "
-1781,Nomthandazo ,Jordaan,Literacy Coach,ECDCs,32.01,TLT,Masi,Ziyanda Fayindlala,5.5,5.5,,,5.5,5.5,5.5,5.5,5.5,,,5.5,5.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,49.5,9,9," R 1,584.50 "
-1820,Likhona,Mlambo,Literacy Coach,ECDCs,32.01,TLT,Masi,Ziyanda Fayindlala,5.5,5,,,5.5,5.5,5.5,5.5,5.5,,,5.5,5.5,0,0,2,,,0,0,0,0,0,,,0,0,0,0,0,,51,10,10," R 1,632.51 "
-1780,Lelethu,Mpande,Literacy Coach,ECDCs,32.01,TLT,Masi,Ziyanda Fayindlala,5,5.5,,,4,5,5.5,5,5,,,5.5,5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,45.5,9,9," R 1,456.46 "
-1809,Siphosihle,Mbewu,Literacy Coach,Primary Schools,32.01,Masi,Masi,Faith Bolothi,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,0,0,0,0,0,,,0,0,0,0,0,,45,10,10," R 1,440.45 "
-1773,Asithandile,Mxhasa,Literacy Coach,ECDCs,32.01,TLT,Masi,Ziyanda Fayindlala,5.5,5.5,,,5.5,5.5,5.5,5,5.5,,,5.5,5.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,49,9,9," R 1,568.49 "
-1777,Lilitha,Bobo,Literacy Coach,ECDCs,32.01,TLT,Masi,Ziyanda Fayindlala,5.5,5.5,,,5.5,5.5,5.5,5.5,5.5,,,5.5,5.5,0,0,5.5,,,0,0,0,0,0,,,0,0,0,0,0,,55,10,10," R 1,760.55 "
-1772,Athandiwe,Gxweyiya,Literacy Coach,ECDCs,32.01,TLT,Masi,Ziyanda Fayindlala,5.5,5.5,,,5.5,5.5,5.5,5.5,5,,,5,5.5,0,0,5,,,0,0,0,0,0,,,0,0,0,0,0,,53.5,10,10," R 1,712.54 "
-1786,Chaniqua,Witbooi,1000 Stories Youth,Primary Schools,32.01,TLT,Masi,Neliswa Skosana,3.5,0,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,24.5,7,7, R 784.25 
-1810,Nomathamsanqa,Mbanda,Literacy Coach,ECDCs,32.01,TLT,Masi,Ziyanda Fayindlala,0,0,,,0,4,4.5,0,0,,,4.5,4.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,21,5,5, R 672.21 
-1819,Nwabisa,Stemele,Literacy Coach,ECDCs,32.01,TLT,Masi,Ziyanda Fayindlala,5,5,,,5,5.5,5.5,5.5,5.5,,,0,5,0,0,1,,,0,0,0,0,0,,,0,0,0,0,0,,43,9,9," R 1,376.43 "
-1854,Jamie-Lee,Adams,Literacy Coaches (ZZ),Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,0,4.5,0,0,4.5,,,0,0,0,0,0,,,0,0,0,0,0,,40.5,9,9," R 1,296.41 "
-1852,Athenkosi,Mcopele,Numeracy Coach,ECDCs,32.01,TLT,Masi,Sibonokuhle Lugogo,4,0,,,4,4,0,4,0,,,4,3.5,1.5,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,25,7,7, R 800.25 
-1851,Alethea,Farmer,Literacy Coaches (ZZ),Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,4.5,4.5,,,4.5,4.5,0,4.5,4.5,,,4.5,4.5,0,0,4.5,,,0,0,0,0,0,,,0,0,0,0,0,,40.5,9,9," R 1,296.41 "
-1848,Nadia,Ruiters,Literacy Coach,Primary Schools,32.01,Masi,Rural,Simamkele Sali,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,40.5,9,9," R 1,296.41 "
-1841,Zimvo,Zici,ZZ ECD Coach,ECDCs,32.01,TLT,Masi,Sibonokuhle Lugogo,3.5,0,,,4,3.5,3.5,3.5,0,,,3.5,3.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,25,7,7, R 800.25 
-1840,Othandwayo,Josopu,Literacy Coach,Primary Schools,32.01,Masi,Masi,Faith Bolothi,4.5,4.5,,,4,3.5,4.5,4,0,,,4.5,4.5,0,0,4,,,0,0,0,0,0,,,0,0,0,0,0,,38,9,9," R 1,216.38 "
-1838,Kuhle,Hlohloza,1000 Stories Youth,Primary Schools,32.01,TLT,Masi,Neliswa Skosana,3.5,3.5,,,0,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,31.5,9,9," R 1,008.32 "
-1835,Nomaphelo,Zonke,Numeracy Coach,ECDCs,32.01,TLT,Masi,Andiswa Manona,4,4,,,4,4,4,3.5,4,,,4,4,0,0,4,,,0,0,0,0,0,,,0,0,0,0,0,,39.5,10,10," R 1,264.40 "
-1834,Sanelisiwe,Doll,Numeracy Coach,ECDCs,32.01,TLT,Masi,Andiswa Manona,4,4,,,4,4,4,4,4,,,4,4,0,0,4,,,0,0,0,0,0,,,0,0,0,0,0,,40,10,10," R 1,280.40 "
-1832,Asanda,Hlela,Numeracy Coach,ECDCs,32.01,TLT,Masi,Sibonokuhle Lugogo,4,4,,,4,4,4,0,0,,,4,4,2,0,4,,,0,0,0,0,0,,,0,0,0,0,0,,34,9,9," R 1,088.34 "
-1829,Tshililo,Tshikwatamba,Numeracy Coach,ECDCs,32.01,TLT,Masi,Sibonokuhle Lugogo,3.5,0,,,4,4,4,4,4,,,3,4,0,0,4,,,0,0,0,0,0,,,0,0,0,0,0,,34.5,9,9," R 1,104.35 "
-1826,Anothando,Bunu,Numeracy Coach,ECDCs,32.01,TLT,Masi,Sibonokuhle Lugogo,4,4,,,4,3.5,4,4,3.5,,,0,4,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,31,8,8, R 992.31 
-1825,Lisakhanya,Skosana,Literacy Coach,Primary Schools,32.01,TLT,Masi,Ziyanda Fayindlala,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,0,0,0,0,0,,,0,0,0,0,0,,45,10,10," R 1,440.45 "
-1823,Liyema,Plaatjie,Literacy Coach,ECDCs,32.01,TLT,Masi,Ziyanda Fayindlala,5.5,5.5,,,5.5,5.5,5.5,5.5,5.5,,,5.5,5.5,0,0,5.5,,,0,0,0,0,0,,,0,0,0,0,0,,55,10,10," R 1,760.55 "
-1822,Sibongile,Tsoni,Literacy Coach,Primary Schools,32.01,TLT,Masi,Ziyanda Fayindlala,4.5,4.5,,,4.5,4.5,4.5,4.5,0,,,4.5,4.5,0,0,4.5,,,0,0,0,0,0,,,0,0,0,0,0,,40.5,9,9," R 1,296.41 "
-1821,Awona,Mapipa,Literacy Coach,Primary Schools,32.01,TLT,Masi,Faith Bolothi,4.5,4.5,,,4.5,4.5,3,4.5,4.5,,,4.5,4.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,39,9,9," R 1,248.39 "
-1791,Siphelele,Vongxani,Literacy Coach,Primary Schools,32.01,TLT,Rural,Busisiwe Ndlela,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,0,0,0,0,0,,,0,0,0,0,0,,54,12,12," R 1,728.54 "
-1691,Sinazo,Ngqayimbana,Practitioner,ECDCs,32.01,TLT,Masi,Hlumelo Sikula,6,5,,,6,6,0,6,5.5,,,6,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,40.5,7,7," R 1,296.41 "
-1579,Nelisa,Ndyawe,Numeracy Coach,ECDCs,32.01,TLT,Masi,Sibonokuhle Lugogo,4,4,,,4,4,4,4,4,,,3.5,4,4,0,0.5,,,0,0,0,0,0,,,0,0,0,0,0,,40,11,11," R 1,280.40 "
-1572,Yonela,Madlingozi,Practitioner,ECDCs,32.01,TLT,Masi,Hlumelo Sukula,6,2.5,,,6,6,0,0,0,,,6,6,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,32.5,6,7," R 1,040.33 "
-1540,Akhona,Skosana,Numeracy Coach,ECDCs,32.01,TLT,Masi,Sibonokuhle Lugogo,4,4,,,4,4,4,4,4,,,0,4,0,0,4,,,0,0,0,0,0,,,0,0,0,0,0,,36,9,9," R 1,152.36 "
-1537,Siphesihle,Ngwana,Numeracy Coach,ECDCs,32.01,TLT,Masi,Andiswa Manona,4,4,,,3.5,3.5,4,4,3.5,,,4,4,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,38,10,10," R 1,216.38 "
-1524,Thandolwethu,Ncapayi,Numeracy Coach,ECDCs,32.01,TLT,Masi,Sibonokuhle Lugogo,4,4,,,4,4,4,4,4,,,4,4,4,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,40,10,10," R 1,280.40 "
-1250,Beronic,Witbooi,Literacy Coach,Primary Schools,32.01,Masi,Rural,Simamkele Sali,4.5,4.5,,,4.5,4.5,0,4.5,4.5,,,4.5,4.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,36,8,9," R 1,152.36 "
-1824,Ziphozihle,Hulushe,Literacy Coach,Primary Schools,32.01,TLT,Masi,Ziyanda Fayindlala,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,0,0,0,0,0,,,0,0,0,0,0,,45,10,10," R 1,440.45 "
-1828,Khanyisa,Kweleta,Literacy Coach,Primary Schools,32.01,TLT,Masi,Ziyanda Fayindlala,4.5,4,,,4.5,4.5,4.5,0,3.5,,,0,0,0,0,4.5,,,0,0,0,0,0,,,0,0,0,0,0,,30,7,8, R 960.30 
-1856,Babalwa,Njajula,Literacy Coach,Primary Schools,32.01,TLT,Masi,Ziyanda Fayindlala,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,0,0,0,4.5,,,0,0,0,0,0,,,0,0,0,0,0,,40.5,9,10," R 1,296.41 "
-1858,Olwethu,Mabenge,Literacy Coach,Primary Schools,32.01,TLT,Masi,Ziyanda Fayindlala,4.5,4,,,4.5,4.5,4.5,4.5,4.5,,,0,4.5,0,0,4,,,0,0,0,0,0,,,0,0,0,0,0,,39.5,9,9," R 1,264.40 "
-1839,Aphiwe,Daniels,ZZ ECD Coach,ECDCs,32.01,TLT,Masi,Andiswa Manona,3.5,0,,,3.5,3.5,3.5,0,0,,,3.5,3.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,21,6,6, R 672.21 
-1529,Asiphe,Mazantsi,Literacy Coach ECD,ECDCs,32.01,TLT,Masi,Faith Bolothi,5,5,,,5,5,5,5,5,,,5,5,0,0,5,,,0,0,0,0,0,,,0,0,0,0,0,,50,10,10," R 1,600.50 "
-1802,Mihle,Xana,ZZ ECD Coach,ECDCs,32.01,TLT,Masi,Andiswa Manona,0,0,,,4,3.5,3.5,3.5,0,,,3.5,3.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,21.5,6,6, R 688.22 
-1862,Viwe,Magatyana,1000 Stories Youth,Primary Schools,32.01,TLT,Masi,Neliswa Skosana,3.5,0,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,24.5,7,7, R 784.25 
-1861,Asahluma,Tala,Numeracy Coach,ECDCs,32.01,TLT,Masi,Sibonokuhle Lugogo,4,4,,,4,4,0,4,4,,,4,4,4,0,2.5,,,0,0,0,0,0,,,0,0,0,0,0,,38.5,10,10," R 1,232.39 "
-1864,Anelisa,Mabhuda,Numeracy Coach,ECDCs,32.01,TLT,Masi,Sibonokuhle Lugogo,4,4,,,4,4,4,4,3,,,4,4,0,0,4,,,0,0,0,0,0,,,0,0,0,0,0,,39,10,10," R 1,248.39 "
-1863,Nolithemba,Manentsa,Numeracy Coach,ECDCs,32.01,TLT,Masi,Sibonokuhle Lugogo,4,3.5,,,0,4,4,0,4,,,4,4,0,0,4,,,0,0,0,0,0,,,0,0,0,0,0,,31.5,8,8," R 1,008.32 "
-1589,Aphelele,Dayimani,Numeracy Coach,ECDCs,32.01,TLT,Masi,Andiswa Manona,4,0,,,4,4,4,4,4,,,3.5,0,0,0,4,,,0,0,0,0,0,,,0,0,0,0,0,,31.5,8,8," R 1,008.32 "
-1882,Dineo,Melato,Literacy Coach,Primary Schools,32.01,TLT,Masi,Faith Bolothi,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,0,0,0,0,0,,,0,0,0,0,0,,45,10,10," R 1,440.45 "
-1880,Mihlali,Sisusa,Literacy Coach,Primary Schools,32.01,TLT,Masi,Faith Bolothi,4.5,4.5,,,4.5,0,4.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,0,0,0,0,0,,,0,0,0,0,0,,40.5,9,9," R 1,296.41 "
-1869,Sinazo,Salusalu,Homework Coach,ECDCs,32.01,Masi,Rural,Zola Mbusi,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,0,0,0, R -   
-1868,Nombuzo,Mxoli,Homework Coach,ECDCs,32.01,Masi,Rural,Zola Mbusi,4,4,,,4,4,4,4,4,,,4,4,4,0,4,,,0,0,0,0,0,,,0,0,0,0,0,,44,11,12," R 1,408.44 "
-1865,Athini,Samani,1000 Stories Youth,Primary Schools,32.01,TLT,Masi,Neliswa Skosana,3.5,0,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,28,8,8, R 896.28 
-1879,Entle,Diamond,Literacy Coach,Primary Schools,32.01,TLT,Masi,Ziyanda Fayindlala,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,0,0,0,0,0,,,0,0,0,0,0,,45,10,10," R 1,440.45 "
-1889,Hlumelo,Dlutu,Literacy Coach,Primary Schools,32.01,TLT,Masi,Ziyanda Fayindlala,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,0,0,0,0,0,,,0,0,0,0,0,,45,10,10," R 1,440.45 "
-1877,Sinawe,Socishe,Numeracy Coach,ECDCs,32.01,TLT,Masi,Andiswa Manona,4,4,,,4,4,4,4,4,,,4,4,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,36,9,9," R 1,152.36 "
-1948,Chandre,Alfred,Literacy Coach,Primary Schools,32.01,Masi,Rural,Kariena Tsaoane,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,40.5,9,9," R 1,296.41 "
-2065,Breshnay,Williams,Literacy Coach,Primary Schools,32.01,Masi,Rural,Kariena Tsaoane,0,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,36,8,8," R 1,152.36 "
-1946,Zintle,Sibengile,Numeracy Coach,ECDCs,32.01,TLT,Masi,Sibonokuhle Lugogo,4,4,,,3.5,4,4,4,4,,,4,4,2,0,4,,,0,0,0,0,0,,,0,0,0,0,0,,41.5,11,11," R 1,328.42 "
-1944,Siphosihle,Slatsha,ZZ ECD Coach,ECDCs,32.01,Masi,Rural,Kariena Tsaoane,5,4.5,,,5.5,5.5,4,5.5,5.5,,,5.5,5.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,46.5,9,9," R 1,488.47 "
-1943,Siphosethu,Yantolo,Numeracy Coach,ECDCs,32.01,TLT,Masi,Sibonokuhle Lugogo,4,4,,,4,4,4,4,4,,,4,4,4,0,2,,,0,0,0,0,0,,,0,0,0,0,0,,42,11,11," R 1,344.42 "
-1942,Siphosethu,Magala,Numeracy Coach,ECDCs,32.01,TLT,Masi,Sibonokuhle Lugogo,4,4,,,4,4,0,4,0,,,4,4,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,28,7,7, R 896.28 
-1939,Polisa,Soya,ZZ ECD Coach,ECDCs,32.01,TLT,Masi,Andiswa Manona,3.5,0,,,4,3.5,3.5,3.5,0,,,3.5,3.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,25,7,7, R 800.25 
-1938,Othandiweyo,Jackson,Numeracy Coach,ECDCs,32.01,TLT,Masi,Sibonokuhle Lugogo,4,0,,,4,0,4,0,0,,,4,4,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,20,5,5, R 640.20 
-1937,Odwa,Ntantiso,Literacy Coach,ECDCs,32.01,TLT,Masi,Ziyanda Fayindlala,5.5,5.5,,,5.5,5.5,5.5,5.5,5.5,,,5.5,5.5,0,0,5.5,,,0,0,0,0,0,,,0,0,0,0,0,,55,10,10," R 1,760.55 "
-1936,Nqwaba,Slindokuhle,Literacy Coach,Primary Schools,32.01,TLT,Masi,Ziyanda Fayindlala,4.5,4.5,,,4.5,4.5,4.5,4.5,0,,,4.5,4.5,0,0,3,,,0,0,0,0,0,,,0,0,0,0,0,,39,9,9," R 1,248.39 "
-1935,Nosipho,Zuzani,Numeracy Coach,ECDCs,32.01,TLT,Masi,Sibonokuhle Lugogo,4,4,,,4,4,4,4,1,,,4,4,0,0,4,,,0,0,0,0,0,,,0,0,0,0,0,,37,10,10," R 1,184.37 "
-1933,Nomatshawe,Petros,1000 Stories Youth,Primary Schools,32.01,TLT,Masi,Neliswa Skosana,3.5,0,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,24.5,7,7, R 784.25 
-1931,Noluvuyo,Ngxumza,ZZ ECD Coach,ECDCs,32.01,TLT,Masi,Sibonokuhle Lugogo,3.5,0,,,4.5,3.5,3.5,3.5,0,,,3.5,3.5,3.5,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,29,8,8, R 928.29 
-1930,Musa,Tom,Literacy Coach,Primary Schools,32.01,TLT,Masi,Faith Bolothi,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,0,0,0,0,0,,,0,0,0,0,0,,45,10,10," R 1,440.45 "
-1928,Mihlali,Bobo,ZZ ECD Coach,ECDCs,32.01,TLT,Masi,Andiswa Manona,3.5,0,,,0,3.5,3.5,3.5,0,,,3.5,3,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,20.5,6,6, R 656.21 
-1926,Mbasa,Mvundlela,1000 Stories Youth,Primary Schools,32.01,TLT,Masi,Neliswa Skosana,3.5,0,,,3.5,0,3.5,3.5,0,,,0,3.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,17.5,5,5, R 560.18 
-1925,Mbali,Klassen,Literacy Coach,Primary Schools,32.01,TLT,Masi,Faith Bolothi,4.5,4.5,,,4.5,4.5,3,4.5,4.5,,,4.5,4.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,39,9,9," R 1,248.39 "
-1924,Mbalentle,Mbangi,Numeracy Coach,ECDCs,32.01,TLT,Masi,Andiswa Manona,4,4,,,4,4,4,4,0,,,4,4,0,0,2.5,,,0,0,0,0,0,,,0,0,0,0,0,,34.5,9,9," R 1,104.35 "
-1922,Liyema,Ntantiso,Literacy Coach,Primary Schools,32.01,TLT,Masi,Faith Bolothi,0,4.5,,,4.5,3,4.5,0,4.5,,,4.5,4.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,30,7,7, R 960.30 
-1920,Lisakhanya,Rubusana,ZZ ECD Coach,ECDCs,32.01,TLT,Masi,Andiswa Manona,3.5,0,,,3.5,3.5,3.5,0,0,,,3.5,3.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,21,6,6, R 672.21 
-1919,Lilitha,Namba,ZZ ECD Coach,ECDCs,32.01,TLT,Masi,Andiswa Manona,3.5,0,,,3.5,3.5,3.5,3.5,0,,,0,3.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,21,6,6, R 672.21 
-1918,Libhongo,Manitshane,EduTech Coach,Primary Schools,32.01,TLT,Masi,Neliswa Skosana,3.5,0,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,31.5,9,9," R 1,008.32 "
-1917,Khanyisa,Diko,Literacy Coach ECD,ECDCs,32.01,TLT,Masi,Hlumelo Sikula,5,4.5,,,0,4.5,0,5,5,,,5,5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,34,7,8," R 1,088.34 "
-1916,Emihle,Magwadi,Literacy Coach,Primary Schools,32.01,TLT,Masi,Faith Bolothi,4.5,4.5,,,4,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,0,0,0,0,0,,,0,0,0,0,0,,44.5,10,10," R 1,424.45 "
-1913,Asisipho,Mali,Literacy Coach,Primary Schools,32.01,TLT,Masi,Faith Bolothi,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,0,0,0,0,0,,,0,0,0,0,0,,45,10,10," R 1,440.45 "
-1909,Aphelele,Kama,Literacy Coach,Primary Schools,32.01,TLT,Masi,Faith Bolothi,4.5,4.5,,,4.5,0,4.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,0,0,0,0,0,,,0,0,0,0,0,,40.5,9,9," R 1,296.41 "
-1907,Amkela,Ntoni,Literacy Coach,Primary Schools,32.01,TLT,Masi,Ziyanda Fayindlala,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,0,0,0,0,0,,,0,0,0,0,0,,45,10,10," R 1,440.45 "
-1906,Amanda,Sotyiwa,Numeracy Coach,ECDCs,32.01,TLT,Masi,Andiswa Manona,0,4,,,4,4,4,4,0,,,0,4,0,0,4,,,0,0,0,0,0,,,0,0,0,0,0,,28,7,7, R 896.28 
-1905,Amahle,Matshaya,Literacy Coach,Primary Schools,32.01,TLT,Masi,Ziyanda Fayindlala,4.5,4.5,,,4,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,0,0,0,0,0,,,0,0,0,0,0,,44.5,10,10," R 1,424.45 "
-1984,Sihle,Magongoma,Literacy Coach,Primary Schools,32.01,TLT,Rural,Busisiwe Ndlela,4.5,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,4.5,1,1, R 144.05 
-1982,Sindiswa,Boyana,Literacy Coach,Primary Schools,32.01,TLT,Rural,Busisiwe Ndlela,4.5,4.5,,,4.5,4.5,4.5,0,4.5,,,4.5,4.5,4.5,4.5,4.5,,,0,0,0,0,0,,,0,0,0,0,0,,49.5,11,12," R 1,584.50 "
-1981,Akhikhaya,Mankule,ZZ ECD Coach,ECDCs,32.01,TLT,Rural,Busisiwe Ndlela,5.5,5.5,,,5.5,5.5,5.5,5.5,5.5,,,5.5,5.5,5.5,5.5,5.5,,,0,0,0,0,0,,,0,0,0,0,0,,66,12,12," R 2,112.66 "
-2064,Anathi,Lolose,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,31.5,9,9," R 1,008.32 "
-2062,Tamryn,Minnie,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3,0,0,3,,,0,0,0,0,0,,,0,0,0,0,0,,34,10,10," R 1,088.34 "
-2060,Avuyile,Zenani,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,3.5,3.5,2.5,,,0,3.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,27,8,8, R 864.27 
-2059,Stephanay,Williams,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,31.5,9,10," R 1,008.32 "
-2057,Lisakhanya,Vena,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,31.5,9,9," R 1,008.32 "
-2055,Kimlynne,Toring,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,0,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,2.5,,,0,0,0,0,0,,,0,0,0,0,0,,27,8,8, R 864.27 
-2054,Indiphile,Tole,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,3,,,0,0,0,0,0,,,0,0,0,0,0,,31,9,9, R 992.31 
-2053,Ayabulela,Thandani,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,35,10,10," R 1,120.35 "
-2052,Likho,Siziba,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,35,10,11," R 1,120.35 "
-2050,Luciano,Sampson,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,3,3.5,3.5,,,3.5,3.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,31,9,9, R 992.31 
-2049,Ivonia,Rossouw,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,0,0,,,3.5,3.5,3.5,3.5,2.5,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,27,8,8, R 864.27 
-2048,Shania,Rossouw,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,2.5,3.5,3.5,0,,,2.5,3.5,0,0,3,,,0,0,0,0,0,,,0,0,0,0,0,,29,9,9, R 928.29 
-2047,Achuma,Plaatjies,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,2,3,,,3.5,0,0,0,3,,,3.5,3.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,18.5,6,6, R 592.19 
-2044,Noluvo,Nyawe,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,0,,,3,3.5,3.5,0,0,,,0,0,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,17,5,5, R 544.17 
-2041,Yolisa,Ngwetsheni,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,3,,,3.5,2,3,3.5,0,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,29,9,9, R 928.29 
-2040,Bulela,Ngquwe,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,35,10,10," R 1,120.35 "
-2039,Lethu,Ngqaimbana,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3,3.5,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,34.5,10,10," R 1,104.35 "
-2036,Mihle,Ngalo,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,0,0,,,3.5,3.5,3.5,3.5,0,,,3,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,24,7,7, R 768.24 
-2034,Olwabo,Ndeleni,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,0,0,0, R -   
-2033,Whitney,Naidoo,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,14,4,4, R 448.14 
-2032,Athitha,Mthethani,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,31.5,9,9," R 1,008.32 "
-2031,Sinazo,Mpuntshe,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,0,0,,,3,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,3,1,1, R 96.03 
-2030,Aviwe,Moslani,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,0,3.5,0,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,28,8,8, R 896.28 
-2029,Sibabawle,Mooi,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,35,10,10," R 1,120.35 "
-2028,Charmica,Moodley,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,0,3.5,1.5,,,3.5,0,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,26,8,8, R 832.26 
-2027,Batande,Milla,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,0,0,0, R -   
-2026,Lizalithetha,Mhlobo,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,0,0,,,3.5,3.5,3,3.5,3.5,,,0,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,24,7,7, R 768.24 
-2025,Lithemba,Mhlobo,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,0,3.5,,,3.5,3.5,3.5,3.5,3.5,,,0,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,28,8,8, R 896.28 
-2024,Busisiwe,Mgibe,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,35,10,10," R 1,120.35 "
-2023,Junaida,Mcpherson,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,31.5,9,9," R 1,008.32 "
-2021,Nangamso,Mbewu,Literacy Coach,Primary Schools,32.01,Masi,Masi,Ziyanda Fayindlala,0,0,,,4.5,4.5,4.5,0,4.5,,,4.5,4.5,0,0,4.5,,,0,0,0,0,0,,,0,0,0,0,0,,31.5,7,8," R 1,008.32 "
-2020,Oyama,Mbemba,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,3.5,0,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,31.5,9,10," R 1,008.32 "
-2019,Anathi,Maqizana,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,3,3.5,3.5,,,3.5,3.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,31,9,10, R 992.31 
-2016,Siyolisile,Maneli,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,31.5,9,9," R 1,008.32 "
-2014,Nwabisa,Mamoti,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,35,10,10," R 1,120.35 "
-2013,Simnikiwe,Mali,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,3.5,3.5,2,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,33.5,10,10," R 1,072.34 "
-2012,Mbali,Makuleni,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,3.5,0,3.5,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,31.5,9,9," R 1,008.32 "
-2011,Onke,Makoa,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3.5,3.5,,,2.5,0,0,3,2.5,,,0.5,3.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,19,7,7, R 608.19 
-2010,Zandile,Magxaki,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,0,3.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,28,8,8, R 896.28 
-2009,Mia,Mackenzie,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3.5,3.5,,,2.5,3.5,3.5,3.5,3.5,,,0,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,30.5,9,9, R 976.31 
-2006,Mbalentle,Kemele,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,0,,,3.5,3.5,3.5,3.5,2,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,30,9,9, R 960.30 
-2005,Busisiwe,Kampeni,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,0,3.5,,,3.5,3.5,3.5,0,0,,,3.5,3.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,21,6,6, R 672.21 
-2004,Jenna,Joubert,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,31.5,9,9," R 1,008.32 "
-2003,Anathi,Gxasheka,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3,3,,,3,2.5,0,3.5,0,,,2.5,3,0,0,3,,,0,0,0,0,0,,,0,0,0,0,0,,23.5,8,8, R 752.24 
-2002,Nontobeko,Grootboom,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,0,0,,,0,0,0,0,0,,,2.5,2,0,0,0.5,,,0,0,0,0,0,,,0,0,0,0,0,,5,3,3, R 160.05 
-2001,Simthembile,Gotyana,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,0,3.5,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,1.5,,,0,0,0,0,0,,,0,0,0,0,0,,26,8,8, R 832.26 
-2000,Nosibusiso,Gorolo,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,0,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,31.5,9,9," R 1,008.32 "
-1999,Lisekhaya,Fina,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,0,3.5,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,31.5,9,9," R 1,008.32 "
-1998,Sinelitha,Dywili,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,3.5,3.5,2,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,33.5,10,10," R 1,072.34 "
-1996,Obuhle,Dyeli,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,3.5,3.5,1,,,0,3.5,0,0,0.5,,,0,0,0,0,0,,,0,0,0,0,0,,26,9,9, R 832.26 
-1994,Sibabalwe,Dlova,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,3.5,,,0,0,0,0,0,,,0,3.5,0,0,1.5,,,0,0,0,0,0,,,0,0,0,0,0,,12,4,4, R 384.12 
-1993,Liezel,Dirks,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,3.5,1,1, R 112.04 
-1991,Siyamthanda,Bunge,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3.5,3.5,,,0,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,31.5,9,9," R 1,008.32 "
-1990,Nevelisha,Brits,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,31.5,9,9," R 1,008.32 "
-1989,Siyavuya,Bokoyi,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3,2,,,0,3,3,3.5,0,,,0,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,21.5,7,7, R 688.22 
-1988,Siphesihle,Blouw,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,0,1.5,,,3.5,0,3.5,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,8.5,3,3, R 272.09 
-1987,Sinothando,Bholo,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,0,0,,,3.5,3.5,0,3.5,0,,,3,0,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,17,5,5, R 544.17 
-1986,Lebo,August,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,0,3,,,3.5,3.5,3,3.5,3.5,,,3,3,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,29.5,9,9, R 944.30 
-1985,Ziyanda,Appolis,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3.5,0,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,31.5,9,9," R 1,008.32 "
-1768,Mahlatse,Nodlawu,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,0,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,31.5,9,9," R 1,008.32 "
-1765,Sesethu,Joni,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,35,10,10," R 1,120.35 "
-1667,Lathitha,Parkins,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,31.5,9,9," R 1,008.32 "
-1368,Portia Amanda,Tsibaphi,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,0,3.5,3.5,0,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,28,8,8, R 896.28 
-980,Sivuyile,Tikise,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,0,3.5,,,0,3.5,3,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,10,3,3, R 320.10 
-706,Sinethemba,Mofu,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,35,10,10," R 1,120.35 "
-1992,Sinovuyo,Daweti,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,35,10,10," R 1,120.35 "
-2022,Ibenathi,Mbewu,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,0,0,,,0,3.5,3.5,3.5,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,10.5,3,3, R 336.11 
-2045,Mbali Blossom,Oliphant,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Zanele Nobadula,3.5,0,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,28,8,8, R 896.28 
-2037,Sesethu,Ngcongo,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Zanele Nobadula,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,0,0,0, R -   
-1908,Anda,Mancam,Literacy Coach,Primary Schools,32.01,TLT,Masi,Faith Bolothi,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,0,0,0, R -   
-2067,Yonela,Booi,1000 Stories Youth,Primary Schools,32.01,TLT,Masi,Neliswa Skosana,3.5,0,,,3.5,3.5,3,3.5,0,,,3.5,3.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,24,7,7, R 768.24 
-1972,Shandre,Calvert,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,31.5,9,9," R 1,008.32 "
-1957,Kirshia,Cooper,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,3.5,0,3.5,,,3,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,31,9,9, R 992.31 
-1949,Abigail,Jokazi,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,3,,,0,0,0,0,0,,,0,0,0,0,0,,31,9,9, R 992.31 
-1627,Micaela,Boesak,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,3.5,0,0,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,28,8,8, R 896.28 
-1644,Micheala,Bruiners,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Rayvial Coetzee,3.5,0,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,28,8,8, R 896.28 
-1962,Lona,Mnono,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Rayvial Coetzee,0,0,,,3.5,3.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,7,2,3, R 224.07 
-1952,Donel,Bonaparte,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,31.5,9,9," R 1,008.32 "
-1953,Chelsea,Goliath,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,31.5,9,9," R 1,008.32 "
-1960,Lisakhanya,Dzeya,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,0,3.5,0,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,28,8,8, R 896.28 
-1640,Rukaya,Weavel,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,31.5,9,9," R 1,008.32 "
-1977,Siyamtanda,Nkosinkulu,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,31.5,9,9," R 1,008.32 "
-1979,Xhanti,Mfuku,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Rayvial Coetzee,3.5,2.5,,,3.5,3.5,3.5,3.5,3.5,,,3,0,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,30,9,9, R 960.30 
-2068,Raeesa,Ismail,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,0,0,0,3.5,,,3.5,0,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,21,6,6, R 672.21 
-2079,Lihle,Stofile,Literacy Coach,Primary Schools,32.01,TLT,Rural,Busisiwe Ndlela,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,0,4.5,4.5,4.5,,,0,0,0,0,0,,,0,0,0,0,0,,49.5,11,12," R 1,584.50 "
-2077,Mihlali,Skoti,Literacy Coach,Primary Schools,32.01,TLT,Rural,Busisiwe Ndlela,4.5,4.5,,,0,4.5,4.5,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,0,0,0,0,0,,,0,0,0,0,0,,49.5,11,11," R 1,584.50 "
-2073,Kungawo,Sam,Literacy Coach,Primary Schools,32.01,TLT,Rural,Busisiwe Ndlela,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,0,0,0,0,0,,,0,0,0,0,0,,54,12,12," R 1,728.54 "
-1963,Mandiluve,Teyise,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,0,3.5,0,,,0,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,24.5,7,7, R 784.25 
-1961,Lisenathi,September,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Zanele Nobadula,3.5,3.5,,,0,3.5,3.5,3.5,3.5,,,3,3,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,27,8,8, R 864.27 
-1955,Esona,Lambani,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,0,0,3,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,17,5,5, R 544.17 
-1958,Sibahle,Mancam,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Zanele Nobadula,3.5,0,,,3,3,3.5,3.5,0,,,3.5,0,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,23.5,7,7, R 752.24 
-2069,Thandokazi,Magabela,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,0,,,3.5,3.5,3.5,3.5,3,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,31,9,9, R 992.31 
-2071,Awethu,Ndwayi,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,2,0,,,2.5,2.5,2.5,2.5,2.5,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,14.5,6,6, R 464.15 
-1974,Sinomtha,Mgqolozana,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Zanele Nobadula,3.5,3.5,,,3.5,0,3.5,3.5,3.5,,,3.5,3.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,28,8,9, R 896.28 
-1978,Timna,Lukwe,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3,3,3,0,,,3.5,3,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,29.5,9,9, R 944.30 
-2072,Anda,Nosilela,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,3.5,,,3.5,0,3.5,3.5,3.5,,,3,3.5,0,0,3,,,0,0,0,0,0,,,0,0,0,0,0,,30.5,9,9, R 976.31 
-2075,Palesa,Selekane,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3,3,,,3.5,3.5,3.5,3.5,3.5,,,0,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,30.5,9,9, R 976.31 
-2070,Lerato,Mkonko,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,0,0,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,24.5,7,7, R 784.25 
-1975,Sinothando,Mtati,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,0,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,31.5,9,9," R 1,008.32 "
-1967,Nomaswazi,Nkosi,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,0,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,31.5,9,9," R 1,008.32 "
-1968,Nokonwaba,Nkohla,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Zanele Nobadula,0,3.5,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,28,8,8, R 896.28 
-1973,Sinesipho,Mzwakali,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,31.5,9,9," R 1,008.32 "
-1896,Sinathi,Magutywa,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,35,10,10," R 1,120.35 "
-2085,Ntombentsha,Matole,Literacy Coach,Primary Schools,32.01,Masi,Masi,Simamkele Sali,4.5,0,,,4.5,4.5,4.5,4.5,0,,,4.5,4.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,31.5,7,7," R 1,008.32 "
-2091,Luphiwo,Ntukantu,Literacy Coach,Primary Schools,32.01,Masi,Masi,Kariena Tsaoane,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,40.5,9,9," R 1,296.41 "
-2095,Micole,Goliath,Literacy Coach,Primary Schools,32.01,Masi,Masi,Kariena Tsaoane,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,40.5,9,9," R 1,296.41 "
-2082,Makukhanye,Dayimane,Literacy Coach,Primary Schools,32.01,TLT,Masi,Ziyanda Fayindlala,4.5,0,,,0,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,0,0,0,0,0,,,0,0,0,0,0,,36,8,8," R 1,152.36 "
-2090,Salizwa,Ngantweni,Literacy Coach,Primary Schools,32.01,TLT,Masi,Ziyanda Fayindlala,4.5,3.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,0,0,0,0,0,,,0,0,0,0,0,,44,10,10," R 1,408.44 "
-2083,Somilasande,Dekeda,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,35,10,10," R 1,120.35 "
-1237,Amlindile,Maneli,EduTech Coach,Primary Schools,32.01,TLT,Masi,Neliswa Skosana,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,0,0,0, R -   
-2092,Siyamthanda,Twani,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,3.5,3.5,1,,,0,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,29,9,9, R 928.29 
-1442,Asive,Dyatyie,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,31.5,9,9," R 1,008.32 "
-2112,Anathi,Stoot,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,3.5,,,0,3.5,3.5,3.5,0,,,0,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,24.5,7,7, R 784.25 
-2104,Asiphe,Mayinje,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,0,0,0, R -   
-2102,Claudine,Myburg,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Rayvial Coetzee,0,3.5,,,3.5,3.5,0,3.5,0,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,24.5,7,7, R 784.25 
-2106,Deborah,Scheerpers,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,3.5,0,3.5,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,31.5,9,9," R 1,008.32 "
-2113,Lauren,Jordaan,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,31.5,9,10," R 1,008.32 "
-2110,Jayden,Human,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,0,3.5,,,3.5,3.5,0,3.5,0,,,3,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,24,7,7, R 768.24 
-2094,Farren,Afrika,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,0,3.5,3.5,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,17.5,5,5, R 560.18 
-2096,Alnechia,Makwena,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Rayvial Coetzee,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,0,0,0, R -   
-2097,Yolanda,Ngcikwe,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Rayvial Coetzee,3.5,0,,,3,0,0,0,3.5,,,0,3,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,13,4,4, R 416.13 
-2098,Carryn,Thobi,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,35,10,10," R 1,120.35 "
-2099,Katelin,Olivier,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,24.5,7,7, R 784.25 
-2100,Marishca Mary,Human,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,3,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,34.5,10,10," R 1,104.35 "
-2101,Jessica,Tonjeni,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Rayvial Coetzee,3.5,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,3.5,1,1, R 112.04 
-2103,Sisipho,Ngwane,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Zanele Nobadula,3,0,,,3.5,3.5,0,3.5,3,,,3,3.5,0,0,2,,,0,0,0,0,0,,,0,0,0,0,0,,25,8,8, R 800.25 
-2105,Esona,Kota,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Zanele Nobadula,3.5,0,,,3,3.5,0,3.5,0,,,0,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,20.5,6,6, R 656.21 
-2107,Sesona,Maneli,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,35,10,10," R 1,120.35 "
-2108,Lolwethu,Thys,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Zanele Nobadula,3.5,1.5,,,3,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,8,3,3, R 256.08 
-2109,Onela,Madlingozi,1000 Stories Youth,Primary Schools,32.01,TLT,Masi,Neliswa Skosana,3.5,0,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,24.5,7,7, R 784.25 
-2111,Phiwokuhle,Menze,1000 Stories Youth,Primary Schools,32.01,TLT,Masi,Neliswa Skosana,3.5,0,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,28,8,8, R 896.28 
-1885,Qhama,Fikayo,EduTech Coach,Primary Schools,32.01,TLT,Masi,Neliswa Skosana,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,35,10,10," R 1,120.35 "
-2125,Iviwe,Marawu,Literacy Coach,Primary Schools,32.01,Masi,Masi,Faith Bolothi,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,0,0,0,0,0,,,0,0,0,0,0,,45,10,10," R 1,440.45 "
-2121,Masande,Mooi,Literacy Coach,Primary Schools,32.01,Masi,Masi,Faith Bolothi,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,0,0,0,0,0,,,0,0,0,0,0,,45,10,10," R 1,440.45 "
-2119,Songe,Mrwebo,Literacy Coach,Primary Schools,32.01,Masi,Masi,Faith Bolothi,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,0,4.5,0,0,4.5,,,0,0,0,0,0,,,0,0,0,0,0,,40.5,9,9," R 1,296.41 "
-2120,Anam,Mrwebo,Literacy Coach,Primary Schools,32.01,Masi,Masi,Faith Bolothi,4.5,4.5,,,4.5,0,4.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,0,0,0,0,0,,,0,0,0,0,0,,40.5,9,9," R 1,296.41 "
-2115,Khanyisile,Matebese,Literacy Coach,Primary Schools,32.01,Masi,Masi,Ziyanda Fayindlala,4.5,4,,,4.5,4.5,4.5,4.5,4,,,4.5,4.5,0,0,4,,,0,0,0,0,0,,,0,0,0,0,0,,43.5,10,10," R 1,392.44 "
-2126,Zintle,Tukani,1000 Stories Youth,Primary Schools,32.01,Masi,Masi,Neliswa Skosana,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,0,0,0, R -   
-2127,Kuhle,Mbulelo,1000 Stories Youth,Primary Schools,32.01,Masi,Masi,Neliswa Skosana,3.5,0,,,3.5,0,3.5,3.5,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,14,4,4, R 448.14 
-2117,Asavela,Diko,Numeracy Coach,ECDCs,32.01,Masi,Masi,Sibonokuhle Lugogo,0,0,,,4,4,4,0,0,,,3.5,4,4,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,23.5,6,6, R 752.24 
-2114,Nomaxabiso,Mangai,ZZ ECD Coach,ECDCs,32.01,Masi,Masi,Andiswa Manona,3.5,0,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,24.5,7,7, R 784.25 
-2116,Asiphe,Biko,Numeracy Coach,ECDCs,32.01,Masi,Masi,Sibonokuhle Lugogo,4,4,,,4,4,4,4,4,,,4,4,4,0,4,,,0,0,0,0,0,,,0,0,0,0,0,,44,11,11," R 1,408.44 "
-2132,Cecelia,Lewies,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,3.5,3.5,3,,,3.5,3,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,30.5,9,9, R 976.31 
-2147,Nadine,Abrahams,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,0,0,3.5,3.5,,,3.5,0,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,24.5,7,8, R 784.25 
-2135,Onela,Ngqumshe,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3,3.5,,,3.5,0,3.5,3.5,0,,,2.5,2.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,25.5,8,8, R 816.26 
-966,Sisipho,Mabangula,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3,3.5,,,3,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,30.5,9,9, R 976.31 
-2137,Bridgette,Baatjies,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3.5,0,,,3.5,0,0,3.5,3.5,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,24.5,7,7, R 784.25 
-2129,Noloyiso,Macanda,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,0,,,3.5,3.5,3.5,3.5,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,17.5,5,5, R 560.18 
-2130,Asemahle,Baby,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,1,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,32.5,10,10," R 1,040.33 "
-2144,Emihle,Makeleni,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,0,3.5,,,0,3,3,2.5,3,,,3.5,2.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,21,7,7, R 672.21 
-2133,Shanay,George,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,0,3.5,,,3.5,0,3.5,3.5,3.5,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,28,8,8, R 896.28 
-2128,Phaphama,Johnson,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,7,2,2, R 224.07 
-2139,Asemahle,Wakashe,EduTech Coach,Primary Schools,32.01,Masi,Masi,Neliswa Skosana,3.5,3.5,,,3.5,3.5,3.5,3.5,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,21,6,6, R 672.21 
-2142,Simamkele,Phatho,Literacy Coach,Primary Schools,32.01,Masi,Masi,Faith Bolothi,4.5,4.5,,,4.5,4.5,3,4.5,4.5,,,4.5,4.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,39,9,9," R 1,248.39 "
-2148,Anovuyo,Manjezi,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,0,0,,,3,3.5,3.5,3.5,0,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,24,7,7, R 768.24 
-2150,Lihle,Tshabe,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,0,0,,,3.5,3.5,3.5,3.5,0,,,0,0,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,17.5,5,6, R 560.18 
-2149,Xhantilomzi,Manjezi,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,0,0,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,28,8,8, R 896.28 
-2153,Anelisiwe,Gitywa,ZZ ECD Coach,ECDCs,32.01,Masi,Masi,Sibonokuhle Lugogo,0,0,,,0,0,3.5,3.5,0,,,3.5,3.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,14,4,5, R 448.14 
-2154,Siphesihle,Majali,1000 Stories Youth,Primary Schools,32.01,TLT,Rural,Busisiwe Ndlela,3.5,3.5,,,3.5,3.5,3,3.5,3,,,3.5,3.5,3.5,3.5,3,,,0,0,0,0,0,,,0,0,0,0,0,,40.5,12,12," R 1,296.41 "
-2146, Oyama Mzazoyana,Mzozoyana,Literacy Coach,Primary Schools,32.01,Masi,Masi,Faith Bolothi,3.5,4,,,3.5,3.5,4,4,3.5,,,3.5,0,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,33,9,9," R 1,056.33 "
-1022,Anathi Fina,Fina,Assessor,Primary Schools,32.01,Masi,Masi,Buyiswa Xaba,0,0,,,0,0,0,1,0,,,0,3.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,4.5,2,2, R 144.05 
-2164,Anelisa Erasmus,Erasmus,Assessor,Primary Schools,32.01,Masi,Masi,Buyiswa Xaba,0,0,,,0,0,0,0.5,0,,,2.5,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,3,2,2, R 96.03 
-2140,Anelisa Maqholo,Maqholo,1000 Stories Youth,Primary Schools,32.01,Masi,Masi,Neliswa Skosana,0,0,,,0,2,3.5,3.5,0,,,3.5,3.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,16,5,5, R 512.16 
-1448,Anelisa Ndema,Ndema,1000 Stories Youth,Primary Schools,32.01,Masi,Masi,Neliswa Skosana,0,0,,,3,0,3.5,3.5,0,,,0,3.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,13.5,4,6, R 432.14 
-2163,Aphelele Mhletywa,Mhletywa,Assessor,Primary Schools,32.01,Masi,Masi,Buyiswa Xaba,0,0,,,0,0,0,0.5,0,,,1,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,1.5,2,2, R 48.02 
-2168,Asanda Williams,Williams,Literacy Coach,Primary Schools,32.01,Masi,Rural,Simamnkele Sali,0,0,,,0,3,4.5,4.5,4.5,,,4.5,4.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,25.5,6,6, R 816.26 
-2165,Asemahle Memani,Memani,Assessor,Primary Schools,32.01,Masi,Masi,Buyiswa Xaba,0,0,,,0,0,0,0,1,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,1,1,1, R 32.01 
-1515,Asiphe Vanqa,Vanqa,Assessor,Primary Schools,32.01,Masi,Masi,Buyiswa Xaba,0,0,,,0,0,0,0,0,,,3.5,3,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,6.5,2,2, R 208.07 
-2088,Beryl-Lee Morris,Morries,Assessor,Primary Schools,32.01,Masi,Masi,Buyiswa Xaba,0,0,,,0,0,0,0,0,,,3.5,3.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,7,2,2, R 224.07 
-2078,Carlin Stowman,Stowman,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,35,10,10," R 1,120.35 "
-2145,Kamvalethu  Kama,Kama,EduTech Coach,Primary Schools,32.01,Masi,Masi,Neliswa Skosana,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,3.5,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,28,8,9, R 896.28 
-2159,Lathitha Zinto,Zinto,Assessor,Primary Schools,32.01,Masi,Masi,Buyiswa Xaba,0,0,,,0,0,0,0,0,,,1,3.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,4.5,2,2, R 144.05 
-2151,Mihlali Hlulani,Hlulani,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,35,10,10," R 1,120.35 "
-1836,Nombulelo Nofemele,Nofemele,Literacy Coach,Primary Schools,32.01,Masi,Rural,Simamnkele Sali,0,0,,,0,4,4.5,4.5,4.5,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,17.5,4,4, R 560.18 
-2157,Nomthandazo Mkele,Mkele,Numeracy Coach,Primary Schools,32.01,Masi,Masi,Sibonokuhle Lugogo,0,0,,,0,0,4,4,4,,,4,4,4,0,4,,,0,0,0,0,0,,,0,0,0,0,0,,28,7,7, R 896.28 
-2161,Ntomboxolo Rooiland,Rooilanda,Assessor,Primary Schools,32.01,Masi,Masi,Buyiswa Xaba,0,0,,,0,0,0,0,0,,,1.5,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,1.5,1,2, R 48.02 
-2162,Othandwayo Rodrigues,Rodrigues,Assessor,Primary Schools,32.01,Masi,Masi,Buyiswa Xaba,0,0,,,0,0,0,0.5,0,,,1.5,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,2,2,2, R 64.02 
-2152,Sage Adams,Adams,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,0,0,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,28,8,8, R 896.28 
-P,Skyla-Janne Hitzeroth,Hitzeroth,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,31.5,9,9," R 1,008.32 "
-2160,Wyatt Woodward,Woodward,Assessor,Primary Schools,32.01,Masi,Masi,Buyiswa Xaba,0,0,,,0,0,0,0,0,,,0,3.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,3.5,1,2, R 112.04 
-2008,Zukisiwe Lomani,Lomani,Assessor,Primary Schools,32.01,Masi,Masi,Buyiswa Xaba,0,0,,,0,0,0,3.5,3.5,,,3.5,3.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,14,4,4, R 448.14 
-2167,Chulumanco,Zalabe,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Andiswa Manona,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,0,0,0, R -   
-2166,Iviwe,Mjebeza,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Andiswa Manona,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,0,0,0, R -   
-1451,Siphosethu,Kula,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,28,8,8, R 896.28 
+678,Onwabile,Bebe,Literacy Coach,ECDCs,32.01,TLT,Masi,Ziyanda Fayindlala,5.5,5.5,,,0,5.5,5.5,5.5,5,,,5,5.5,0,0,1,,,5.5,5.5,5.5,5.5,0,,,0,,0,0,0,,66,13,13," R 2,112.66 "
+586,Winnifred Henrietta,Walters,Literacy Coach,ECDCs,32.01,TLT,Masi,Ziyanda Fayindlala,5.5,5,,,5.5,5.5,5.5,5.5,5,,,5,5.5,0,0,5.5,,,5,5.5,5.5,5.5,0,,,0,,0,0,0,,75,14,14," R 2,400.75 "
+963,Amyolise,Booi,Literacy Coach,Primary Schools,32.01,Masi,Masi,Faith Bolothi,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,4.5,4.5,4.5,4.5,4.5,,,0,,0,0,0,,67.5,15,15," R 2,160.68 "
+525,Lizalisi,Baliwe,Literacy Coach,ECDCs,32.01,TLT,Masi,Ziyanda Fayindlala,5.5,5.5,,,5.5,5.5,5.5,5.5,0,,,5.5,5.5,0,0,5.5,,,5.5,5.5,5.5,5.5,0,,,0,,0,0,0,,71.5,13,13," R 2,288.72 "
+695,Jennelee Ruth,Noah,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,4.5,4.5,,,4.5,4.5,2.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,4.5,4.5,4.5,4.5,4.5,,,0,,0,0,0,,65.5,15,15," R 2,096.66 "
+942,Kariena,Tsaoane,Literacy Coach,Primary Schools,32.01,Masi,Rural,Kariena Tsaoane,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,0,,,4.5,4.5,4.5,4.5,4.5,,,0,,0,0,0,,63,14,14," R 2,016.63 "
+1052,Onwaba,Jonas,Literacy Coach,Primary Schools,32.01,TLT,Masi,Faith Bolothi,4.5,4.5,,,0,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,4.5,4.5,4.5,4.5,4.5,,,0,,0,0,0,,63,14,15," R 2,016.63 "
+1143,Khanya,Xipula,Literacy Coach,ECDCs,32.01,TLT,Masi,Ziyanda Fayindlala,5.5,5.5,,,5.5,5.5,5.5,5.5,5.5,,,5.5,5.5,1.5,0,5.5,,,5.5,5.5,5.5,5.5,0,,,0,,0,0,0,,78.5,15,15," R 2,512.79 "
+1246,Busisiwe,Kuhlane,Literacy Coach,ECDCs,32.01,TLT,Masi,Ziyanda Fayindlala,5.5,0,,,5.5,5.5,5.5,5.5,5.5,,,5.5,5.5,0,0,5.5,,,5.5,5.5,5.5,5.5,5.5,,,0,,0,0,0,,77,14,14," R 2,464.77 "
+1089,Siphosethu,Njibana,Literacy Coach,Primary ECDs,32.01,TLT,Masi,Faith Bolothi,0,0,,,5,5,5,0,5,,,4.5,5,0,0,5,,,4.5,5,4,5,5,,,0,,0,0,0,,58,12,12," R 1,856.58 "
+1057,Anelisa,Burwana,Literacy Coach,Primary Schools,32.01,TLT,Masi,Faith Bolothi,0,0,,,4.5,4.5,0,0,0,,,0,4.5,0,0,0,,,0,-8.5,0,4.5,4.5,,,0,,0,0,0,,14,5,5, R 448.14 
+1124,Bulumko,TsengIwe,Literacy Coach,ECDCs,32.01,TLT,Masi,Ziyanda Fayindlala,5.5,0,,,5.5,5.5,5.5,5.5,5.5,,,5.5,5.5,0,0,5.5,,,5.5,5.5,5.5,5.5,0,,,0,,0,0,0,,71.5,13,13," R 2,288.72 "
+939,Natoline,Taker,Literacy Coach,ECDCs,32.01,Masi,Rural,Kariena Tsaoane,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,,0,0,0,,0,0,0, R -   
+1072,Sibongile,Putulu,Literacy Coach,Primary Schools,32.01,TLT,Masi,Faith Bolothi,4.5,4.5,,,4.5,4.5,4.5,4,4.5,,,4.5,4.5,0,0,0,,,4.5,2.5,4.5,4.5,4.5,,,0,,0,0,0,,60.5,14,14," R 1,936.61 "
+1094,Boniswa,Ndzuta,Literacy Coach,Primary Schools,32.01,TLT,Masi,Faith Bolothi,4.5,4.5,,,3,4.5,4.5,4.5,4.5,,,0,4.5,0,0,0,,,4.5,4.5,4.5,4.5,3.5,,,0,,0,0,0,,56,13,13," R 1,792.56 "
+1083,Kholiswa,Williams,Literacy Coach,Primary Schools,32.01,Masi,Masi,Faith Bolothi,4.5,0,,,4.5,4.5,4.5,4.5,4.5,,,0,4.5,0,0,4.5,,,4.5,4.5,4.5,4.5,4.5,,,0,,0,0,0,,58.5,13,13," R 1,872.59 "
+1251,Simamkele,Sali,Literacy Coach,Primary Schools,32.01,Masi,Rural,Simamkele Sali,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,0,,,4.5,4.5,4.5,4.5,3.5,,,0,,0,0,0,,62,14,14," R 1,984.62 "
+446,Yibanati,Mpumlwana,Literacy Coach,ECDCs,32.01,TLT,Masi,Ziyanda Fayindlala,0,0,,,5.5,5.5,5.5,5.5,5.5,,,5.5,5.5,0,0,2.5,,,5.5,5.5,5.5,5.5,5.5,,,0,,0,0,0,,68.5,13,13," R 2,192.69 "
+1069,Kuselo,Mzozoyana,Literacy Coach,Primary Schools,32.01,TLT,Masi,Ziyanda Fayindlala,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,0,,,4.5,4.5,4.5,4.5,0,,,0,,0,0,0,,58.5,13,13," R 1,872.59 "
+1076,Zizipho,Mbubela,Literacy Coach,Primary Schools,32.01,TLT,Masi,Faith Bolothi,0,0,,,0,0,0,0,0,,,4.5,4.5,0,0,4,,,0,0,4.5,0,0,,,0,,0,0,0,,17.5,4,4, R 560.18 
+1123,Siyolise Nwabisa,Kume,Literacy Coach,Primary Schools,32.01,TLT,Masi,Faith Bolothi,4.5,4.5,,,1.5,4.5,4.5,4.5,4.5,,,0,4.5,0,0,4.5,,,4.5,4.5,4.5,0,0,,,0,,0,0,0,,51,12,12," R 1,632.51 "
+1155,Chulumanco,Nywebeni,ZZ ECD Coach,ECDCs,32.01,TLT,Rural,Busisiwe Ndlela,5.5,5.5,,,5.5,5.5,5.5,5.5,5.5,,,5.5,5.5,5.5,5.5,5.5,,,5.5,5.5,5.5,5.5,5.5,,,0,,0,0,0,,93.5,17,17," R 2,992.94 "
+1332,Sivenathi,Mtana,Literacy Coach,Primary Schools,32.01,TLT,Masi,Faith Bolothi,4.5,4,,,4.5,0,0,0,0,,,0,4.5,0,0,4.5,,,4.5,4.5,4.5,4.5,4,,,0,,0,0,0,,44,10,10," R 1,408.44 "
+1336,Hlelokuhle,Ngqokwe,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Rayvial Coetzee,4.5,4.5,,,0,4.5,4.5,0,4.5,,,4.5,4.5,0,0,4.5,,,4.5,4.5,4.5,4.5,0,,,0,,0,0,0,,54,12,12," R 1,728.54 "
+1388,Athule,Fihla,Literacy Coach,Primary Schools,32.01,TLT,Masi,Faith Bolothi,4.5,4.5,,,4.5,4.5,4,4.5,4.5,,,4.5,4.5,0,0,0,,,4.5,4.5,4.5,4.5,4.5,,,0,,0,0,0,,62.5,14,14," R 2,000.63 "
+1470,Xolelwa,Marambana,Literacy Coach,Primary Schools,32.01,TLT,Masi,Faith Bolothi,4.5,0,,,4.5,4,4.5,4.5,4,,,4.5,4.5,0,0,4.5,,,0,4.5,4.5,0,4.5,,,0,,0,0,0,,53,12,12," R 1,696.53 "
+1300,Alutha,Kula,Literacy Coach,Primary Schools,32.01,TLT,Masi,Faith Bolothi,4.5,4,,,0,0,0,0,0,,,4,4.5,0,0,4.5,,,4.5,4.5,0,4,4,,,0,,0,0,0,,38.5,9,9," R 1,232.39 "
+1334,Lisakhanya,Myoli,EduTech Coach,Primary Schools,32.01,TLT,Masi,Neliswa Skosana,3.5,3.5,,,3.5,3.5,0,3.5,3.5,,,3.5,3.5,0,0,3.5,,,3.5,3.5,3.5,3.5,3.5,,,0,,0,0,0,,49,14,14," R 1,568.49 "
+1463,Siphosihle Angel,Boloti,EduTech Coach,Primary Schools,32.01,TLT,Masi,Neliswa Skosana,3.5,3.5,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,3.5,,,3.5,3.5,3.5,3.5,0,,,0,,0,0,0,,45.5,13,13," R 1,456.46 "
+944,Siyanda,Gaxamba,Literacy Coach,ECDCs,32.01,TLT,Masi,Ziyanda Fayindlala,5,0,,,5.5,5,5,5.5,4,,,5,5.5,0,0,0,,,5,5.5,5,5,0,,,0,,0,0,0,,61,12,12," R 1,952.61 "
+1472,Nopasika,Mbali,ZZ ECD Coach,ECDCs,32.01,TLT,Masi,Andiswa Manona,3.5,0,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,0,,,3.5,0,3.5,3.5,0,,,0,,0,0,0,,35,10,11," R 1,120.35 "
+1471,Shaan Shaheeda,Ismail,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,0,4.5,0,0,4.5,,,4.5,4.5,4.5,4.5,4.5,,,0,,0,0,0,,63,14,14," R 2,016.63 "
+1467,Gizelle Leante,Simons,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,4.5,4.5,,,4.5,4.5,4.5,4.5,0,,,0,4.5,0,0,4.5,,,4.5,4.5,4.5,4.5,4.5,,,0,,0,0,0,,58.5,13,13," R 1,872.59 "
+1465,Megan Robin,Goldman,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,4.5,4.5,,,4.5,0,4.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,4.5,4.5,4.5,4.5,4.5,,,0,,0,0,0,,63,14,14," R 2,016.63 "
+1100,Namhla,Nqono,EduTech Coach,Primary Schools,32.01,TLT,Masi,Neliswa Skosana,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,0,,,3.5,3.5,3.5,0,0,,,0,,0,0,0,,42,12,12," R 1,344.42 "
+1281,Ntombizanele,Solani,Literacy Coach,ECDCs,32.01,TLT,Masi,Ziyanda Fayindlala,5.5,5,,,5.5,5.5,5.5,5.5,5.5,,,5.5,5.5,0,0,1.5,,,5.5,5.5,5.5,5.5,5.5,,,0,,0,0,0,,78,15,15," R 2,496.78 "
+1464,Sipho Esihle,Yose,Literacy Coach,ECDCs,32.01,TLT,Masi,Ziyanda Fayindlala,5.5,5.5,,,5.5,5.5,5.5,5.5,5.5,,,5.5,5.5,0,0,5.5,,,5.5,5.5,5.5,5.5,5.5,,,0,,0,0,0,,82.5,15,15," R 2,640.83 "
+1476,Zanele,Zephe,ZZ ECD Coach,ECDCs,32.01,TLT,Masi,Sibonokuhle Lugogo,3.5,0,,,4.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,0,,,3.5,3.5,3.5,3.5,0,,,0,,0,0,0,,39.5,11,11," R 1,264.40 "
+1416,Esoyolo,Siganga,ZZ ECD Coach,ECDCs,32.01,TLT,Rural,Busisiwe Ndlela,5.5,5.5,,,5.5,5.5,5.5,3,5.5,,,0,5.5,5.5,5.5,5.5,,,3,5.5,5.5,5.5,0,,,0,,0,0,0,,77.5,15,15," R 2,480.78 "
+1304,Zikhona,Dingile,ZZ ECD Coach,ECDCs,32.01,TLT,Rural,Busisiwe Ndlela,5.5,5.5,,,5.5,5.5,5.5,5.5,4.5,,,5.5,5.5,5.5,5.5,5.5,,,5.5,5.5,5.5,5.5,5.5,,,0,,0,0,0,,92.5,17,17," R 2,960.93 "
+1311,Chantell,Sparks,ZZ ECD Coach,ECDCs,32.01,TLT,Rural,Busisiwe Ndlela,5.5,5.5,,,5.5,5.5,5.5,5.5,5.5,,,5.5,5.5,5.5,5.5,5.5,,,5.5,5.5,5.5,5.5,0,,,0,,0,0,0,,88,16,16," R 2,816.88 "
+1385,Nwabisa,Dyumani,Literacy Coach,Primary Schools,32.01,TLT,Rural,Busisiwe Ndlela,4.5,4.5,,,4.5,4,4.5,4.5,0,,,0,0,4.5,4.5,4.5,,,4.5,4.5,4.5,4.5,4,,,0,,0,0,0,,62,14,14," R 1,984.62 "
+1480,Liyema,Stemele,Literacy Coach,Primary Schools,32.01,TLT,Rural,Busisiwe Ndlela,4.5,4.5,,,4,4.5,4.5,4.5,3.5,,,4,4,4,4,0,,,4.5,4.5,4.5,4,4,,,0,,0,0,0,,67.5,16,16," R 2,160.68 "
+1273,Yamkela,Skiti,Literacy Coach,Primary Schools,32.01,Masi,Rural,Kariena Tsaoane,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,0,,,4.5,4.5,4.5,4.5,4.5,,,0,,0,0,0,,63,14,14," R 2,016.63 "
+1459,Sonja Valenina,Jantjies,Literacy Coach,Primary Schools,32.01,Masi,Rural,Kariena Tsaoane,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,0,,,4.5,4.5,4.5,4,4.5,,,0,,0,0,0,,62.5,14,14," R 2,000.63 "
+1449,Sindiswa,Nompondo,Literacy Coach,ECDCs,32.01,Masi,Rural,Kariena Tsaoane,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,,0,0,0,,0,0,0, R -   
+1288,Juliana Ayanda,Kalipa,Literacy Coach,Primary Schools,32.01,Masi,Rural,Kariena Tsaoane,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,0,,,4.5,4.5,4.5,4.5,4.5,,,0,,0,0,0,,63,14,14," R 2,016.63 "
+1295,Nangamso Nicole,Sigqakaza,Literacy Coach,Primary ECDs,32.01,TLT,Masi,Hlumelo Sikula,5,5,,,5,3.5,3.5,4.5,5,,,5,5,0,0,0,,,5,5,5,5,5,,,0,,0,0,0,,66.5,14,14," R 2,128.67 "
+1255,Sinazo Precious,Ompi,1000 Stories Youth,Primary Schools,32.01,TLT,Masi,Neliswa Skosana,3.5,3.5,,,3.5,3.5,0,0,0,,,3.5,3.5,0,0,0,,,3.5,3.5,3.5,3.5,0,,,0,,0,0,0,,35,10,13," R 1,120.35 "
+1278,Sanele Eveline,Kalipa,Literacy Coach,ECDCs,32.01,Masi,Rural,Kariena Tsaoane,5,5,,,5.5,0,5.5,5.5,5,,,5,5,0,0,2,,,5.5,5,5,5,4.5,,,0,,0,0,0,,68.5,14,14," R 2,192.69 "
+1384,Sisipho,Ndzaba,ZZ ECD Coach,ECDCs,32.01,TLT,Rural,Busisiwe Ndlela,5.5,5.5,,,5.5,5.5,5.5,5.5,0,,,0,0,5.5,0,5.5,,,5.5,5.5,0,5.5,0,,,0,,0,0,0,,60.5,11,13," R 1,936.61 "
+1415,Litemba,Kilani,Literacy Coach,Primary Schools,32.01,TLT,Masi,Ziyanda Fayindlala,0,4.5,,,0,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,4.5,4.5,4.5,4.5,0,,,0,,0,0,0,,54,12,12," R 1,728.54 "
+662,Hazel,Khumalo,Literacy Coach,ECDCs,32.01,Masi,Masi,Ziyanda Fayindlala,5.5,5.5,,,5.5,5.5,0,5,5.5,,,5.5,5.5,0,0,5.5,,,5.5,5.5,5.5,5.5,5.5,,,0,,0,0,0,,76.5,14,14," R 2,448.77 "
+1487,Warneada,Johnson,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,4.5,4.5,4.5,4.5,4.5,,,0,,0,0,0,,67.5,15,15," R 2,160.68 "
+1528,Hlumelo,Hina,Literacy Coach,Primary Schools,32.01,Masi,Masi,Faith Bolothi,4.5,4.5,,,4.5,4.5,4.5,4.5,0,,,4.5,4.5,0,0,4.5,,,4.5,0,4.5,4,4.5,,,0,,0,0,0,,58,13,13," R 1,856.58 "
+1706,Ntombentsha,Solomon,Literacy Coach,Primary Schools,32.01,TLT,Rural,Busisiwe Ndlela,4.5,4.5,,,4,4.5,4.5,4.5,3.5,,,4.5,0,4.5,4.5,4.5,,,4.5,4.5,4.5,4,4,,,0,,0,0,0,,69.5,16,17," R 2,224.70 "
+1731,Sinovuyo,Nkosi,Literacy Coach,ECDCs,32.01,TLT,Masi,Ziyanda Fayindlala,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,,0,0,0,,0,0,0, R -   
+1728,Indibabale,Mabangula,Literacy Coach,Primary Schools,32.01,TLT,Masi,Faith Bolothi,4,4.5,,,4.5,4.5,4.5,4.5,4,,,4,4,0,0,0,,,4.5,0,4.5,4,4.5,,,0,,0,0,0,,56,13,13," R 1,792.56 "
+1708,Sikelelwa,Tsengiwe,Literacy Coach,Primary Schools,32.01,TLT,Masi,Faith Bolothi,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,4.5,4.5,4.5,4.5,4.5,,,0,,0,0,0,,67.5,15,15," R 2,160.68 "
+1704,Liwomtha,Maswana,Literacy Coach,Primary Schools,32.01,Masi,Masi,Faith Bolothi,0,0,,,0,0,0,0,4.5,,,4.5,4.5,0,0,0,,,4.5,4.5,4.5,4.5,4.5,,,0,,0,0,0,,36,8,8," R 1,152.36 "
+1719,Awonke,Qoto,Literacy Coach,Primary Schools,32.01,TLT,Masi,Ziyanda Fayindlala,4.5,4.5,,,4.5,4.5,4.5,0,3.5,,,4.5,0,0,0,4.5,,,4.5,4,4.5,4.5,4.5,,,0,,0,0,0,,57,13,13," R 1,824.57 "
+1722,Thimna,Miti,Literacy Coach,Primary Schools,32.01,TLT,Masi,Ziyanda Fayindlala,3.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,0,4.5,0,0,4.5,,,4.5,4.5,4.5,4.5,0,,,0,,0,0,0,,57.5,13,13," R 1,840.58 "
+1703,Iviwe,Mdliva,Literacy Coach,Primary Schools,32.01,TLT,Masi,Faith Bolothi,4.5,4.5,,,4.5,0,0,0,0,,,0,4.5,0,0,3.5,,,4,4.5,4,4.5,4.5,,,0,,0,0,0,,43,10,10," R 1,376.43 "
+1735,Liyema,Bout,1000 Stories Youth,Primary Schools,32.01,TLT,Masi,Neliswa Skosana,3.5,0,,,2.5,3.5,3.5,3.5,0,,,0,3.5,0,0,3.5,,,0,3.5,3.5,3.5,0,,,0,,0,0,0,,34,10,10," R 1,088.34 "
+1746,Alinda,Turwana,ZZ ECD Coach,ECDCs,32.01,TLT,Masi,Andiswa Manona,3,0,,,4,3.5,3.5,3.5,0,,,3.5,3.5,0,0,0,,,3.5,3.5,3.5,3.5,0,,,0,,0,0,0,,38.5,11,11," R 1,232.39 "
+1745,Avela,Maliza,ZZ ECD Coach,ECDCs,32.01,TLT,Masi,Sibonokuhle Lugogo,3.5,0,,,3.5,3.5,0,3.5,0,,,3,3.5,0,0,0,,,3.5,3.5,3.5,0,0,,,0,,0,0,0,,31,9,9, R 992.31 
+1749,Abigail ,Champion,Literacy Coach,Primary Schools,32.01,Masi,Rural,Kariena Tsaoane,0,4.5,,,4.5,4.5,0,4.5,4.5,,,4.5,4.5,0,0,0,,,4.5,4.5,4.5,4.5,4.5,,,0,,0,0,0,,54,12,12," R 1,728.54 "
+1738,Qama ,Matutu,Literacy Coach,Primary Schools,32.01,Masi,Rural,Kariena Tsaoane,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,0,,,4.5,4.5,4.5,4.5,4,,,0,,0,0,0,,62.5,14,14," R 2,000.63 "
+1726,Sina,Witboi,Literacy Coach,Primary Schools,32.01,Masi,Rural,Kariena Tsaoane,4.5,4.5,,,4.5,0,4.5,4.5,4.5,,,4.5,4.5,0,0,0,,,4.5,4.5,4.5,2.5,4.5,,,0,,0,0,0,,56.5,13,13," R 1,808.57 "
+1758,Lathitha,Maso,Literacy Coach,Primary Schools,32.01,TLT,Rural,Busisiwe Ndlela,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,0,,0,0,0,,76.5,17,17," R 2,448.77 "
+1755,Anathi,Ntamo,Literacy Coach,Primary Schools,32.01,TLT,Rural,Busisiwe Ndlela,4.5,0,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,0,,0,0,0,,72,16,17," R 2,304.72 "
+1770,Zizipho,Diba,Literacy Coach,Primary Schools,32.01,TLT,Rural,Busisiwe Ndlela,4.5,0,,,4.5,4.5,4.5,4.5,4.5,,,4.5,0,4.5,4.5,4.5,,,4.5,4.5,4.5,4.5,0,,,0,,0,0,0,,63,14,15," R 2,016.63 "
+1783,Simamkele,Dastile,ZZ ECD Coach,ECDCs,32.01,TLT,Masi,Andiswa Manona,3.5,0,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,0,,,3.5,3.5,3.5,3.5,0,,,0,,0,0,0,,38.5,11,11," R 1,232.39 "
+1797,Aphiwe,Ntontela,ZZ ECD Coach,ECDCs,32.01,TLT,Masi,Andiswa Manona,3.5,0,,,3.5,3.5,3.5,3,0,,,0,3.5,0,0,0,,,3.5,3.5,3.5,3.5,0,,,0,,0,0,0,,34.5,10,11," R 1,104.35 "
+1782,Lisakhanya,Kume,ZZ ECD Coach,ECDCs,32.01,TLT,Masi,Andiswa Manona,0,0,,,4,3.5,3.5,0,0,,,3.5,3.5,0,0,0,,,3.5,0,3.5,3.5,0,,,0,,0,0,0,,28.5,8,8, R 912.29 
+1803,Esihle,Yali,ZZ ECD Coach,ECDCs,32.01,TLT,Masi,Andiswa Manona,3.5,0,,,4,3.5,3.5,3.5,0,,,3.5,3.5,0,0,0,,,3.5,3.5,3.5,3.5,0,,,0,,0,0,0,,39,11,11," R 1,248.39 "
+1804,Vuyokazi,Mafunga,ZZ ECD Coach,ECDCs,32.01,TLT,Masi,Andiswa Manona,0,0,,,4,3.5,3.5,3.5,0,,,3.5,3.5,2.5,0,0,,,3.5,3.5,3.5,3.5,0,,,0,,0,0,0,,38,11,11," R 1,216.38 "
+1788,Simamkele,Ndyenga,Practitioner,ECDCs,32.01,TLT,Masi,Hlumelo Sikula,6,5.5,,,6,6,4,6,6,,,6,6,0,0,0,,,6,6,6,6,5.5,,,0,,0,0,0,,81,14,14," R 2,592.81 "
+1790,Asiphe,Boqwana,Literacy Coach,Primary Schools,32.01,TLT,Masi,Faith Bolothi,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,4.5,4.5,4.5,4.5,4.5,,,0,,0,0,0,,67.5,15,15," R 2,160.68 "
+1787,Nomachule,Mbenga,Literacy Coach,Primary Schools,32.01,TLT,Masi,Faith Bolothi,4.5,4.5,,,4.5,0,4.5,4.5,4.5,,,4.5,4.5,0,0,0,,,4.5,4.5,4.5,4.5,4.5,,,0,,0,0,0,,58.5,13,13," R 1,872.59 "
+1793,Luvuse,Xelelwa,Literacy Coach,Primary Schools,32.01,TLT,Masi,Faith Bolothi,4.5,0,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,4.5,4.5,4.5,4.5,4.5,,,0,,0,0,0,,63,14,15," R 2,016.63 "
+1792,Notiba,Vaaltyn,Literacy Coach,Primary Schools,32.01,TLT,Masi,Faith Bolothi,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,4.5,4.5,4.5,4.5,4.5,,,0,,0,0,0,,67.5,15,15," R 2,160.68 "
+1570,Anesipho,Mda,Literacy Coach,Primary Schools,32.01,TLT,Masi,Faith Bolothi,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,4.5,4.5,4.5,4.5,4.5,,,0,,0,0,0,,67.5,15,15," R 2,160.68 "
+1817,Liyema,Magawu,Literacy Coach,Primary Schools,32.01,TLT,Masi,Faith Bolothi,4.5,0,,,4.5,4.5,4,4.5,0,,,4.5,4.5,0,0,0,,,4.5,4.5,4.5,0,0,,,0,,0,0,0,,44.5,10,10," R 1,424.45 "
+1811,Esethu,Mxokozela,Literacy Coach,Primary Schools,32.01,TLT,Masi,Ziyanda Fayindlala,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,4.5,4.5,4.5,4.5,4.5,,,0,,0,0,0,,67.5,15,15," R 2,160.68 "
+1774,Sinazo,Matebese,Literacy Coach,ECDCs,32.01,TLT,Masi,Ziyanda Fayindlala,5.5,5.5,,,5.5,5.5,0,5.5,5.5,,,5.5,5.5,0,0,5.5,,,5.5,5.5,5.5,5.5,0,,,0,,0,0,0,,71.5,13,13," R 2,288.72 "
+1778,Sihle,Sikwentu,Literacy Coach,ECDCs,32.01,TLT,Masi,Ziyanda Fayindlala,5.5,5,,,5.5,5,5.5,5.5,5.5,,,0,5.5,0,0,0.5,,,5.5,5.5,0,5.5,5,,,0,,0,0,0,,65,13,13," R 2,080.65 "
+1781,Nomthandazo ,Jordaan,Literacy Coach,ECDCs,32.01,TLT,Masi,Ziyanda Fayindlala,5.5,5.5,,,5.5,5.5,5.5,5.5,5.5,,,5.5,5.5,0,0,0,,,5.5,5.5,5.5,5.5,5.5,,,0,,0,0,0,,77,14,14," R 2,464.77 "
+1820,Likhona,Mlambo,Literacy Coach,ECDCs,32.01,TLT,Masi,Ziyanda Fayindlala,5.5,5,,,5.5,5.5,5.5,5.5,5.5,,,5.5,5.5,0,0,2,,,5,5.5,5.5,0,0,,,0,,0,0,0,,67,13,13," R 2,144.67 "
+1780,Lelethu,Mpande,Literacy Coach,ECDCs,32.01,TLT,Masi,Ziyanda Fayindlala,5,5.5,,,4,5,5.5,5,5,,,5.5,5,0,0,1.5,,,0,0,5,5.5,0,,,0,,0,0,0,,57.5,12,12," R 1,840.58 "
+1809,Siphosihle,Mbewu,Literacy Coach,Primary Schools,32.01,Masi,Masi,Faith Bolothi,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,4.5,4.5,4.5,4.5,4.5,,,0,,0,0,0,,67.5,15,15," R 2,160.68 "
+1773,Asithandile,Mxhasa,Literacy Coach,ECDCs,32.01,TLT,Masi,Ziyanda Fayindlala,5.5,5.5,,,5.5,5.5,5.5,5,5.5,,,5.5,5.5,0,0,0,,,0,5.5,5.5,5.5,5.5,,,0,,0,0,0,,71,13,13," R 2,272.71 "
+1777,Lilitha,Bobo,Literacy Coach,ECDCs,32.01,TLT,Masi,Ziyanda Fayindlala,5.5,5.5,,,5.5,5.5,5.5,5.5,5.5,,,5.5,5.5,0,0,5.5,,,5.5,5.5,5.5,5.5,0,,,0,,0,0,0,,77,14,14," R 2,464.77 "
+1772,Athandiwe,Gxweyiya,Literacy Coach,ECDCs,32.01,TLT,Masi,Ziyanda Fayindlala,5.5,5.5,,,5.5,5.5,5.5,5.5,5,,,5,5.5,0,0,5,,,5.5,5.5,5.5,5.5,5.5,,,0,,0,0,0,,81,15,15," R 2,592.81 "
+1786,Chaniqua,Witbooi,1000 Stories Youth,Primary Schools,32.01,TLT,Masi,Neliswa Skosana,3.5,0,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,0,,,3.5,3.5,3.5,3.5,0,,,0,,0,0,0,,38.5,11,11," R 1,232.39 "
+1810,Nomathamsanqa,Mbanda,Literacy Coach,ECDCs,32.01,TLT,Masi,Ziyanda Fayindlala,0,0,,,0,4,4.5,0,0,,,4.5,4.5,0,0,3.5,,,4.5,0,0,0,0,,,0,,0,0,0,,25.5,6,6, R 816.26 
+1819,Nwabisa,Stemele,Literacy Coach,ECDCs,32.01,TLT,Masi,Ziyanda Fayindlala,5,5,,,5,5.5,5.5,5.5,5.5,,,0,5,0,0,1,,,5,0,5,5,4,,,0,,0,0,0,,62,13,13," R 1,984.62 "
+1854,Jamie-Lee,Adams,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,0,4.5,0,0,4.5,,,4.5,4.5,4.5,4.5,4.5,,,0,,0,0,0,,63,14,14," R 2,016.63 "
+1852,Athenkosi,Mcopele,Numeracy Coach,ECDCs,32.01,TLT,Masi,Sibonokuhle Lugogo,4,0,,,4,4,0,4,0,,,4,3.5,1.5,0,0,,,4,3.5,4,4,0,,,0,,0,0,0,,40.5,11,11," R 1,296.41 "
+1851,Alethea,Farmer,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,4.5,4.5,,,4.5,4.5,0,4.5,4.5,,,4.5,4.5,0,0,4.5,,,4.5,4.5,0,4.5,4.5,,,0,,0,0,0,,58.5,13,14," R 1,872.59 "
+1848,Nadia,Ruiters,Literacy Coach,Primary Schools,32.01,Masi,Rural,Simamkele Sali,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,0,,,0,4.5,4.5,4.5,3.5,,,0,,0,0,0,,57.5,13,13," R 1,840.58 "
+1841,Zimvo,Zici,ZZ ECD Coach,ECDCs,32.01,TLT,Masi,Sibonokuhle Lugogo,3.5,0,,,4,3.5,3.5,3.5,0,,,3.5,3.5,0,0,0,,,3.5,3.5,3.5,0,0,,,0,,0,0,0,,35.5,10,10," R 1,136.36 "
+1840,Othandwayo,Josopu,Literacy Coach,Primary Schools,32.01,Masi,Masi,Faith Bolothi,4.5,4.5,,,4,3.5,4.5,4,0,,,4.5,4.5,0,0,4,,,4.5,4,4.5,0,4.5,,,0,,0,0,0,,55.5,13,14," R 1,776.56 "
+1838,Kuhle,Hlohloza,1000 Stories Youth,Primary Schools,32.01,TLT,Masi,Neliswa Skosana,3.5,3.5,,,0,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,3.5,,,3.5,3.5,3.5,3.5,0,,,0,,0,0,0,,45.5,13,13," R 1,456.46 "
+1835,Nomaphelo,Zonke,Numeracy Coach,ECDCs,32.01,TLT,Masi,Andiswa Manona,4,4,,,4,4,4,3.5,4,,,4,4,0,0,4,,,4,4,4,4,4,,,0,,0,0,0,,59.5,15,15," R 1,904.60 "
+1834,Sanelisiwe,Doll,Numeracy Coach,ECDCs,32.01,TLT,Masi,Andiswa Manona,4,4,,,4,4,4,4,4,,,4,4,0,0,4,,,4,4,4,4,4,,,0,,0,0,0,,60,15,15," R 1,920.60 "
+1832,Asanda,Hlela,Numeracy Coach,ECDCs,32.01,TLT,Masi,Sibonokuhle Lugogo,4,4,,,4,4,4,0,0,,,4,4,2,0,4,,,4,0,0,0,0,,,0,,0,0,0,,38,10,10," R 1,216.38 "
+1829,Tshililo,Tshikwatamba,Numeracy Coach,ECDCs,32.01,TLT,Masi,Sibonokuhle Lugogo,3.5,0,,,4,4,4,4,4,,,3,4,0,0,4,,,4,-10,0,4,0,,,0,,0,0,0,,32.5,11,11," R 1,040.33 "
+1826,Anothando,Bunu,Numeracy Coach,ECDCs,32.01,TLT,Masi,Sibonokuhle Lugogo,4,4,,,4,3.5,4,4,3.5,,,0,4,0,0,0,,,4,4,4,3.5,0,,,0,,0,0,0,,46.5,12,12," R 1,488.47 "
+1825,Lisakhanya,Skosana,Literacy Coach,Primary Schools,32.01,TLT,Masi,Ziyanda Fayindlala,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,4.5,4.5,4.5,4.5,4.5,,,0,,0,0,0,,67.5,15,15," R 2,160.68 "
+1823,Liyema,Plaatjie,Literacy Coach,ECDCs,32.01,TLT,Masi,Ziyanda Fayindlala,5.5,5.5,,,5.5,5.5,5.5,5.5,5.5,,,5.5,5.5,0,0,5.5,,,5.5,5.5,5.5,5.5,5.5,,,0,,0,0,0,,82.5,15,15," R 2,640.83 "
+1822,Sibongile,Tsoni,Literacy Coach,Primary Schools,32.01,TLT,Masi,Ziyanda Fayindlala,4.5,4.5,,,4.5,4.5,4.5,4.5,0,,,4.5,4.5,0,0,4.5,,,4.5,4.5,4.5,4.5,4.5,,,0,,0,0,0,,63,14,14," R 2,016.63 "
+1821,Awona,Mapipa,Literacy Coach,Primary Schools,32.01,TLT,Masi,Faith Bolothi,4.5,4.5,,,4.5,4.5,3,4.5,4.5,,,4.5,4.5,0,0,0,,,4.5,4.5,4.5,0,0,,,0,,0,0,0,,52.5,12,12," R 1,680.53 "
+1791,Siphelele,Vongxani,Literacy Coach,Primary Schools,32.01,TLT,Rural,Busisiwe Ndlela,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,0,,0,0,0,,76.5,17,17," R 2,448.77 "
+1691,Sinazo,Ngqayimbana,Practitioner,ECDCs,32.01,TLT,Masi,Hlumelo Sikula,6,5,,,6,6,0,6,5.5,,,6,0,0,0,0,,,6,6,6,6,5,,,0,,0,0,0,,69.5,12,12," R 2,224.70 "
+1579,Nelisa,Ndyawe,Numeracy Coach,ECDCs,32.01,TLT,Masi,Sibonokuhle Lugogo,4,4,,,4,4,4,4,4,,,3.5,4,4,0,4,,,0,0,0,0,0,,,0,,0,0,0,,43.5,11,11," R 1,392.44 "
+1572,Yonela,Madlingozi,Practitioner,ECDCs,32.01,TLT,Masi,Hlumelo Sukula,6,2.5,,,6,6,0,0,0,,,6,6,0,0,0,,,5.5,6,6,6,0,,,0,,0,0,0,,56,10,11," R 1,792.56 "
+1540,Akhona,Skosana,Numeracy Coach,ECDCs,32.01,TLT,Masi,Sibonokuhle Lugogo,4,4,,,4,4,4,4,4,,,0,4,0,0,4,,,4,4,4,4,4,,,0,,0,0,0,,56,14,14," R 1,792.56 "
+1537,Siphesihle,Ngwana,Numeracy Coach,ECDCs,32.01,TLT,Masi,Andiswa Manona,4,4,,,3.5,3.5,4,4,3.5,,,4,4,0,0,3.5,,,3.5,3.5,3.5,4,0,,,0,,0,0,0,,52.5,14,14," R 1,680.53 "
+1524,Thandolwethu,Ncapayi,Numeracy Coach,ECDCs,32.01,TLT,Masi,Sibonokuhle Lugogo,4,4,,,4,4,4,4,4,,,4,4,4,0,0,,,4,4,4,4,0,,,0,,0,0,0,,56,14,14," R 1,792.56 "
+1250,Beronic,Witbooi,Literacy Coach,Primary Schools,32.01,Masi,Rural,Simamkele Sali,4.5,4.5,,,4.5,4.5,0,4.5,4.5,,,4.5,4.5,0,0,0,,,4.5,4.5,4.5,4.5,4,,,0,,0,0,0,,58,13,14," R 1,856.58 "
+1824,Ziphozihle,Hulushe,Literacy Coach,Primary Schools,32.01,TLT,Masi,Ziyanda Fayindlala,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,4.5,4.5,4.5,4.5,4.5,,,0,,0,0,0,,67.5,15,15," R 2,160.68 "
+1828,Khanyisa,Kweleta,Literacy Coach,Primary Schools,32.01,TLT,Masi,Ziyanda Fayindlala,4.5,4,,,4.5,4.5,4.5,0,3.5,,,0,0,0,0,4.5,,,4.5,4,4.5,4.5,4,,,0,,0,0,0,,51.5,12,12," R 1,648.52 "
+1856,Babalwa,Njajula,Literacy Coach,Primary Schools,32.01,TLT,Masi,Ziyanda Fayindlala,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,0,0,0,4.5,,,4.5,4.5,0,4.5,0,,,0,,0,0,0,,54,12,12," R 1,728.54 "
+1858,Olwethu,Mabenge,Literacy Coach,Primary Schools,32.01,TLT,Masi,Ziyanda Fayindlala,4.5,4,,,4.5,4.5,4.5,4.5,4.5,,,0,4.5,0,0,4,,,4.5,4.5,4.5,4.5,4.5,,,0,,0,0,0,,62,14,14," R 1,984.62 "
+1839,Aphiwe,Daniels,ZZ ECD Coach,ECDCs,32.01,TLT,Masi,Andiswa Manona,3.5,0,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,0,,,3.5,3.5,3.5,3.5,0,,,0,,0,0,0,,38.5,11,11," R 1,232.39 "
+1529,Asiphe,Mazantsi,Literacy Coach,Primary ECDs,32.01,TLT,Masi,Faith Bolothi,5,5,,,5,5,5,5,5,,,5,5,0,0,5,,,5,5,5,5,0,,,0,,0,0,0,,70,14,14," R 2,240.70 "
+1802,Mihle,Xana,ZZ ECD Coach,ECDCs,32.01,TLT,Masi,Andiswa Manona,0,0,,,4,3.5,3.5,3.5,0,,,3.5,3.5,0,0,0,,,0,-8.5,3.5,3.5,0,,,0,,0,0,0,,20,8,8, R 640.20 
+1862,Viwe,Magatyana,1000 Stories Youth,Primary Schools,32.01,TLT,Masi,Neliswa Skosana,3.5,0,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,0,,,3.5,3.5,3.5,3.5,0,,,0,,0,0,0,,38.5,11,11," R 1,232.39 "
+1861,Asahluma,Tala,Numeracy Coach,ECDCs,32.01,TLT,Masi,Sibonokuhle Lugogo,4,4,,,4,4,0,4,4,,,4,4,4,0,2.5,,,4,4,4,4,4,,,0,,0,0,0,,58.5,15,15," R 1,872.59 "
+1864,Anelisa,Mabhuda,Numeracy Coach,ECDCs,32.01,TLT,Masi,Sibonokuhle Lugogo,4,4,,,4,4,4,4,3,,,4,4,0,0,4,,,4,4,4,4,0,,,0,,0,0,0,,55,14,14," R 1,760.55 "
+1863,Nolithemba,Manentsa,Numeracy Coach,ECDCs,32.01,TLT,Masi,Sibonokuhle Lugogo,4,3.5,,,0,4,4,0,4,,,4,4,0,0,4,,,3.5,4,0,3.5,0,,,0,,0,0,0,,42.5,11,11," R 1,360.43 "
+1589,Aphelele,Dayimani,Numeracy Coach,ECDCs,32.01,TLT,Masi,Andiswa Manona,4,0,,,4,4,4,4,4,,,3.5,0,0,0,4,,,4,4,4,4,4,,,0,,0,0,0,,51.5,13,13," R 1,648.52 "
+1882,Dineo,Melato,Literacy Coach,Primary Schools,32.01,TLT,Masi,Faith Bolothi,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,4.5,4.5,4.5,4.5,4.5,,,0,,0,0,0,,67.5,15,15," R 2,160.68 "
+1880,Mihlali,Sisusa,Literacy Coach,Primary Schools,32.01,TLT,Masi,Faith Bolothi,4.5,4.5,,,4.5,0,4.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,4.5,4.5,4.5,4.5,4,,,0,,0,0,0,,62.5,14,14," R 2,000.63 "
+1869,Sinazo,Salusalu,Homework Coach,ECDCs,32.01,Masi,Rural,Zola Mbusi,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,,0,0,0,,0,0,0, R -   
+1868,Nombuzo,Mxoli,Homework Coach,ECDCs,32.01,Masi,Rural,Zola Mbusi,4,4,,,4,4,4,4,4,,,4,4,4,0,4,,,4,4,4,4,4,,,4,,0,0,0,,68,17,17," R 2,176.68 "
+1865,Athini,Samani,1000 Stories Youth,Primary Schools,32.01,TLT,Masi,Neliswa Skosana,3.5,0,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,3.5,,,3.5,3.5,3.5,3.5,0,,,0,,0,0,0,,42,12,12," R 1,344.42 "
+1879,Entle,Diamond,Literacy Coach,Primary Schools,32.01,TLT,Masi,Ziyanda Fayindlala,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,4.5,4.5,3.5,4.5,4.5,,,0,,0,0,0,,66.5,15,15," R 2,128.67 "
+1889,Hlumelo,Dlutu,Literacy Coach,Primary Schools,32.01,TLT,Masi,Ziyanda Fayindlala,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,4.5,4.5,4.5,4.5,4.5,,,0,,0,0,0,,67.5,15,15," R 2,160.68 "
+1877,Sinawe,Socishe,Numeracy Coach,ECDCs,32.01,TLT,Masi,Andiswa Manona,4,4,,,4,4,4,4,4,,,4,4,0,0,4,,,4,4,4,4,0,,,0,,0,0,0,,56,14,14," R 1,792.56 "
+1948,Chandre,Alfred,Literacy Coach,Primary Schools,32.01,Masi,Rural,Kariena Tsaoane,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,0,,,4.5,4.5,4.5,4.5,4.5,,,0,,0,0,0,,63,14,14," R 2,016.63 "
+2065,Breshnay,Williams,Literacy Coach,Primary Schools,32.01,Masi,Rural,Kariena Tsaoane,0,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,0,,,4.5,4.5,4.5,4,0,,,0,,0,0,0,,53.5,12,12," R 1,712.54 "
+1946,Zintle,Sibengile,Numeracy Coach,ECDCs,32.01,TLT,Masi,Sibonokuhle Lugogo,4,4,,,3.5,4,4,4,4,,,4,4,2,0,4,,,4,4,4,4,0,,,0,,0,0,0,,57.5,15,15," R 1,840.58 "
+1944,Siphosihle,Slatsha,ZZ ECD Coach,ECDCs,32.01,Masi,Rural,Kariena Tsaoane,5,4.5,,,5.5,5.5,4,5.5,5.5,,,5.5,5.5,0,0,0,,,5.5,5.5,5.5,5.5,5,,,0,,0,0,0,,73.5,14,14," R 2,352.74 "
+1943,Siphosethu,Yantolo,Numeracy Coach,ECDCs,32.01,TLT,Masi,Sibonokuhle Lugogo,4,4,,,4,4,4,4,4,,,4,4,4,0,2,,,4,3.5,4,3.5,0,,,0,,0,0,0,,57,15,15," R 1,824.57 "
+1942,Siphosethu,Magala,Numeracy Coach,ECDCs,32.01,TLT,Masi,Sibonokuhle Lugogo,4,4,,,4,4,0,4,0,,,4,4,0,0,0,,,4,3.5,0,4,0,,,0,,0,0,0,,39.5,10,10," R 1,264.40 "
+1939,Polisa,Soya,ZZ ECD Coach,ECDCs,32.01,TLT,Masi,Andiswa Manona,3.5,0,,,4,3.5,3.5,3.5,0,,,3.5,3.5,0,0,0,,,3.5,3.5,3.5,3.5,0,,,0,,0,0,0,,39,11,11," R 1,248.39 "
+1938,Othandiweyo,Jackson,Numeracy Coach,ECDCs,32.01,TLT,Masi,Sibonokuhle Lugogo,4,0,,,4,0,4,0,0,,,4,4,0,0,0,,,3,-9,4,0,0,,,0,,0,0,0,,18,7,7, R 576.18 
+1937,Odwa,Ntantiso,Literacy Coach,ECDCs,32.01,TLT,Masi,Ziyanda Fayindlala,5.5,5.5,,,5.5,5.5,5.5,5.5,5.5,,,5.5,5.5,0,0,5.5,,,5.5,5.5,5.5,5.5,0,,,0,,0,0,0,,77,14,14," R 2,464.77 "
+1936,Nqwaba,Slindokuhle,Literacy Coach,Primary Schools,32.01,TLT,Masi,Ziyanda Fayindlala,4.5,4.5,,,4.5,4.5,4.5,4.5,0,,,4.5,4.5,0,0,3,,,4.5,4.5,4.5,4.5,4.5,,,0,,0,0,0,,61.5,14,14," R 1,968.62 "
+1935,Nosipho,Zuzani,Numeracy Coach,ECDCs,32.01,TLT,Masi,Sibonokuhle Lugogo,4,4,,,4,4,4,4,1,,,4,4,0,0,4,,,4,4,4,4,0,,,0,,0,0,0,,53,14,14," R 1,696.53 "
+1933,Nomatshawe,Petros,1000 Stories Youth,Primary Schools,32.01,TLT,Masi,Neliswa Skosana,3.5,0,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,0,,,3.5,3.5,3.5,3.5,0,,,0,,0,0,0,,38.5,11,11," R 1,232.39 "
+1931,Noluvuyo,Ngxumza,ZZ ECD Coach,ECDCs,32.01,TLT,Masi,Sibonokuhle Lugogo,3.5,0,,,4.5,3.5,3.5,3.5,0,,,3.5,3.5,3.5,0,0,,,3.5,3.5,3.5,3.5,0,,,0,,0,0,0,,43,12,12," R 1,376.43 "
+1930,Musa,Tom,Literacy Coach,Primary Schools,32.01,TLT,Masi,Faith Bolothi,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,4.5,4.5,4.5,4.5,4.5,,,0,,0,0,0,,67.5,15,15," R 2,160.68 "
+1928,Mihlali,Bobo,ZZ ECD Coach,ECDCs,32.01,TLT,Masi,Andiswa Manona,3.5,0,,,0,3.5,3.5,3.5,0,,,3.5,3,0,0,0,,,3.5,0,3,3.5,0,,,0,,0,0,0,,30.5,9,9, R 976.31 
+1926,Mbasa,Mvundlela,1000 Stories Youth,Primary Schools,32.01,TLT,Masi,Neliswa Skosana,3.5,0,,,3.5,0,3.5,3.5,0,,,0,3.5,0,0,0,,,3.5,3.5,0,3,0,,,0,,0,0,0,,27.5,8,8, R 880.28 
+1925,Mbali,Klassen,Literacy Coach,Primary Schools,32.01,TLT,Masi,Faith Bolothi,4.5,4.5,,,4.5,4.5,3,4.5,4.5,,,4.5,4.5,0,0,0,,,4.5,4.5,4.5,4.5,0,,,0,,0,0,0,,57,13,13," R 1,824.57 "
+1924,Mbalentle,Mbangi,Numeracy Coach,ECDCs,32.01,TLT,Masi,Andiswa Manona,4,4,,,4,4,4,4,0,,,4,4,0,0,2.5,,,4,4,4,4,4,,,0,,0,0,0,,54.5,14,14," R 1,744.55 "
+1922,Liyema,Ntantiso,Literacy Coach,Primary Schools,32.01,TLT,Masi,Faith Bolothi,0,4.5,,,4.5,3,4.5,0,4.5,,,4.5,4.5,0,0,0,,,4.5,0,4.5,4.5,0,,,0,,0,0,0,,43.5,10,10," R 1,392.44 "
+1920,Lisakhanya,Rubusana,ZZ ECD Coach,ECDCs,32.01,TLT,Masi,Andiswa Manona,3.5,0,,,3.5,3.5,3.5,0,0,,,3.5,3.5,0,0,0,,,0,3.5,3.5,3.5,0,,,0,,0,0,0,,31.5,9,9," R 1,008.32 "
+1919,Lilitha,Namba,ZZ ECD Coach,ECDCs,32.01,TLT,Masi,Andiswa Manona,3.5,0,,,3.5,3.5,3.5,3.5,0,,,0,3.5,0,0,0,,,3.5,3.5,3.5,0,0,,,0,,0,0,0,,31.5,9,9," R 1,008.32 "
+1918,Libhongo,Manitshane,EduTech Coach,Primary Schools,32.01,TLT,Masi,Neliswa Skosana,3.5,0,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,3.5,,,3.5,3.5,3.5,3.5,0,,,0,,0,0,0,,45.5,13,13," R 1,456.46 "
+1917,Khanyisa,Diko,Literacy Coach,Primary ECDs,32.01,TLT,Masi,Hlumelo Sikula,5,4.5,,,0,4.5,0,5,5,,,5,5,0,0,0,,,5,5,5,-8.5,5,,,0,,0,0,0,,45.5,11,12," R 1,456.46 "
+1916,Emihle,Magwadi,Literacy Coach,Primary Schools,32.01,TLT,Masi,Faith Bolothi,4.5,4.5,,,4,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,4.5,4.5,4.5,4.5,4.5,,,0,,0,0,0,,67,15,15," R 2,144.67 "
+1913,Asisipho,Mali,Literacy Coach,Primary Schools,32.01,TLT,Masi,Faith Bolothi,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,4.5,4.5,4.5,4.5,4.5,,,0,,0,0,0,,67.5,15,15," R 2,160.68 "
+1909,Aphelele,Kama,Literacy Coach,Primary Schools,32.01,TLT,Masi,Faith Bolothi,4.5,4.5,,,4.5,0,4.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,4.5,4,4.5,4,4.5,,,0,,0,0,0,,62,14,14," R 1,984.62 "
+1907,Amkela,Ntoni,Literacy Coach,Primary Schools,32.01,TLT,Masi,Ziyanda Fayindlala,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,4.5,4.5,4.5,4.5,4.5,,,0,,0,0,0,,67.5,15,15," R 2,160.68 "
+1906,Amanda,Sotyiwa,Numeracy Coach,ECDCs,32.01,TLT,Masi,Andiswa Manona,0,4,,,4,4,4,4,0,,,0,4,0,0,4,,,0,4,4,4,4,,,0,,0,0,0,,44,11,11," R 1,408.44 "
+1905,Amahle,Matshaya,Literacy Coach,Primary Schools,32.01,TLT,Masi,Ziyanda Fayindlala,4.5,4.5,,,4,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,4.5,4.5,4,4.5,4.5,,,0,,0,0,0,,66.5,15,15," R 2,128.67 "
+1984,Sihle,Magongoma,Literacy Coach,Primary Schools,32.01,TLT,Rural,Busisiwe Ndlela,4.5,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,,0,0,0,,4.5,1,1, R 144.05 
+1982,Sindiswa,Boyana,Literacy Coach,Primary Schools,32.01,TLT,Rural,Busisiwe Ndlela,4.5,4.5,,,4.5,4.5,4.5,0,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,0,,0,0,0,,72,16,17," R 2,304.72 "
+1981,Akhikhaya,Mankule,ZZ ECD Coach,ECDCs,32.01,TLT,Rural,Busisiwe Ndlela,5.5,5.5,,,5.5,5.5,5.5,5.5,5.5,,,5.5,5.5,5.5,5.5,5.5,,,5.5,5.5,5.5,5.5,5.5,,,0,,0,0,0,,93.5,17,17," R 2,992.94 "
+2064,Anathi,Lolose,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,3.5,,,3.5,3.5,3.5,3.5,3.5,,,0,,0,0,0,,49,14,14," R 1,568.49 "
+2062,Tamryn,Minnie,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3,0,0,3,,,3.5,3.5,0,3.5,2.5,,,0,,0,0,0,,47,14,15," R 1,504.47 "
+2060,Avuyile,Zenani,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,3.5,3.5,2.5,,,0,3.5,0,0,0,,,3,3.5,3.5,3.5,3.5,,,0,,0,0,0,,44,13,13," R 1,408.44 "
+2059,Stephanay,Williams,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,3.5,,,3.5,3.5,3.5,3.5,3.5,,,0,,0,0,0,,52.5,15,15," R 1,680.53 "
+2057,Lisakhanya,Vena,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,3.5,,,3.5,3.5,3.5,3.5,3.5,,,0,,0,0,0,,49,14,14," R 1,568.49 "
+2055,Kimlynne,Toring,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,0,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,2.5,,,3.5,3.5,3.5,3.5,3,,,0,,0,0,0,,44,13,13," R 1,408.44 "
+2054,Indiphile,Tole,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,3,,,3.5,3.5,3.5,3.5,3.5,,,0,,0,0,0,,48.5,14,14," R 1,552.49 "
+2053,Ayabulela,Thandani,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,3.5,,,3,3.5,3.5,3.5,3.5,,,0,,0,0,0,,52,15,15," R 1,664.52 "
+2052,Likho,Siziba,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,3.5,,,3.5,3.5,0,0,0,,,0,,0,0,0,,42,12,15," R 1,344.42 "
+2050,Luciano,Sampson,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,3,3.5,3.5,,,3.5,3.5,0,0,0,,,3.5,3.5,3.5,3.5,3.5,,,0,,0,0,0,,48.5,14,14," R 1,552.49 "
+2049,Ivonia,Rossouw,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,0,0,,,3.5,3.5,3.5,3.5,2.5,,,3.5,3.5,0,0,3.5,,,0,0,0,0,0,,,0,,0,0,0,,27,8,8, R 864.27 
+2048,Shania,Rossouw,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,2.5,3.5,3.5,0,,,2.5,3.5,0,0,3,,,0,3.5,3.5,3.5,3.5,,,0,,0,0,0,,43,13,14," R 1,376.43 "
+2047,Achuma,Plaatjies,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,2,3,,,3.5,0,0,0,3,,,3.5,3.5,0,0,0,,,3.5,3.5,0,0,0,,,0,,0,0,0,,25.5,8,9, R 816.26 
+2044,Noluvo,Nyawe,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,0,,,3,3.5,3.5,0,0,,,0,0,0,0,3.5,,,3.5,3.5,3.5,0,3.5,,,0,,0,0,0,,31,9,10, R 992.31 
+2041,Yolisa,Ngwetsheni,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,3,,,3.5,2,3,3.5,0,,,3.5,3.5,0,0,3.5,,,3.5,0,3.5,0,0,,,0,,0,0,0,,36,11,12," R 1,152.36 "
+2040,Bulela,Ngquwe,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,3.5,,,3.5,3.5,3.5,3.5,0,,,0,,0,0,0,,49,14,14," R 1,568.49 "
+2039,Lethu,Ngqaimbana,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3,3.5,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,3.5,,,3.5,3.5,3.5,3.5,3.5,,,0,,0,0,0,,52,15,15," R 1,664.52 "
+2036,Mihle,Ngalo,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,0,0,,,3.5,3.5,3.5,3.5,0,,,3,3.5,0,0,3.5,,,3,3.5,3,3,2,,,0,,0,0,0,,38.5,12,12," R 1,232.39 "
+2034,Olwabo,Ndeleni,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,,0,0,0,,0,0,0, R -   
+2033,Whitney,Naidoo,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,0,0,0,,,0,0,0,0,0,,,3.5,0,0,0,3.5,,,0,,0,0,0,,21,6,6, R 672.21 
+2032,Athitha,Mthethani,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,3.5,,,3.5,3.5,3.5,3.5,3.5,,,0,,0,0,0,,49,14,14," R 1,568.49 "
+2031,Sinazo,Mpuntshe,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,0,0,,,3,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,,0,0,0,,3,1,1, R 96.03 
+2030,Aviwe,Moslani,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,0,3.5,0,,,3.5,3.5,0,0,3.5,,,3.5,3.5,3.5,3.5,3.5,,,0,,0,0,0,,45.5,13,13," R 1,456.46 "
+2029,Sibabawle,Mooi,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,3.5,,,0,3.5,0,3.5,0,,,0,,0,0,0,,42,12,13," R 1,344.42 "
+2028,Charmica,Moodley,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,0,3.5,1.5,,,3.5,0,0,0,3.5,,,3.5,3.5,3.5,3.5,3.5,,,0,,0,0,0,,43.5,13,13," R 1,392.44 "
+2027,Batande,Milla,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,,0,0,0,,0,0,0, R -   
+2026,Lizalithetha,Mhlobo,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,0,0,,,3.5,3.5,3,3.5,3.5,,,0,3.5,0,0,3.5,,,3.5,3.5,3.5,3.5,3.5,,,0,,0,0,0,,41.5,12,12," R 1,328.42 "
+2025,Lithemba,Mhlobo,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,0,3.5,,,3.5,3.5,3.5,3.5,3.5,,,0,3.5,0,0,3.5,,,3.5,3.5,3.5,3.5,3.5,,,0,,0,0,0,,45.5,13,13," R 1,456.46 "
+2024,Busisiwe,Mgibe,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,3.5,,,3.5,3.5,3.5,3.5,3.5,,,0,,0,0,0,,52.5,15,15," R 1,680.53 "
+2023,Junaida,Mcpherson,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,3.5,,,3.5,3.5,3.5,3.5,3,,,0,,0,0,0,,48.5,14,14," R 1,552.49 "
+2021,Nangamso,Mbewu,Literacy Coach,Primary Schools,32.01,Masi,Masi,Ziyanda Fayindlala,0,0,,,4.5,4.5,4.5,0,4.5,,,4.5,4.5,0,0,4.5,,,4.5,4.5,4.5,4.5,4.5,,,0,,0,0,0,,54,12,12," R 1,728.54 "
+2020,Oyama,Mbemba,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,3.5,0,0,0,3.5,,,3.5,3.5,3.5,3.5,3.5,,,0,,0,0,0,,49,14,14," R 1,568.49 "
+2019,Anathi,Maqizana,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,3,3.5,3.5,,,3.5,3.5,0,0,3.5,,,3.5,3.5,3.5,3.5,3.5,,,0,,0,0,0,,52,15,15," R 1,664.52 "
+2016,Siyolisile,Maneli,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,3.5,,,0,3.5,3.5,3.5,3.5,,,0,,0,0,0,,45.5,13,13," R 1,456.46 "
+2014,Nwabisa,Mamoti,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,3.5,,,3.5,3.5,3.5,3.5,3.5,,,0,,0,0,0,,52.5,15,15," R 1,680.53 "
+2013,Simnikiwe,Mali,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,3.5,3.5,2,,,3.5,3.5,0,0,3.5,,,3.5,3.5,3.5,3.5,3.5,,,0,,0,0,0,,51,15,15," R 1,632.51 "
+2012,Mbali,Makuleni,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,3.5,0,3.5,,,3.5,3.5,0,0,3.5,,,3.5,3.5,0,3.5,3.5,,,0,,0,0,0,,45.5,13,13," R 1,456.46 "
+2011,Onke,Makoa,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3.5,3.5,,,2.5,0,0,3,2.5,,,0.5,3.5,0,0,0,,,1.5,3.5,3,3.5,0,,,0,,0,0,0,,30.5,11,11, R 976.31 
+2010,Zandile,Magxaki,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,0,3.5,0,0,0,,,0,3.5,3.5,3.5,3.5,,,0,,0,0,0,,42,12,12," R 1,344.42 "
+2009,Mia,Mackenzie,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3.5,3.5,,,2.5,3.5,3.5,3.5,3.5,,,0,3.5,0,0,3.5,,,3.5,3.5,3.5,3.5,3.5,,,0,,0,0,0,,48,14,14," R 1,536.48 "
+2006,Mbalentle,Kemele,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,0,,,3.5,3.5,3.5,3.5,2,,,3.5,3.5,0,0,3.5,,,3.5,3.5,3.5,3.5,3.5,,,0,,0,0,0,,47.5,14,14," R 1,520.48 "
+2005,Busisiwe,Kampeni,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,0,3.5,,,3.5,3.5,3.5,0,0,,,3.5,3.5,0,0,0,,,3.5,3.5,3.5,3.5,3.5,,,0,,0,0,0,,38.5,11,11," R 1,232.39 "
+2004,Jenna,Joubert,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,3.5,,,3.5,3.5,3.5,3.5,3.5,,,0,,0,0,0,,49,14,14," R 1,568.49 "
+2003,Anathi,Gxasheka,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3,3,,,3,2.5,0,3.5,0,,,2.5,3,0,0,3,,,2.5,2.5,1.5,0,0,,,0,,0,0,0,,30,11,11, R 960.30 
+2002,Nontobeko,Grootboom,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,0,0,,,0,0,0,0,0,,,2.5,2,0,0,0.5,,,2.5,0,0,0,0,,,0,,0,0,0,,7.5,4,4, R 240.08 
+2001,Simthembile,Gotyana,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,0,3.5,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,1.5,,,3.5,3.5,3.5,3.5,3.5,,,0,,0,0,0,,43.5,13,13," R 1,392.44 "
+2000,Nosibusiso,Gorolo,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,0,3.5,0,0,3.5,,,3.5,3,3.5,3.5,3.5,,,0,,0,0,0,,48.5,14,14," R 1,552.49 "
+1999,Lisekhaya,Fina,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,0,3.5,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,3.5,,,3.5,3.5,3.5,3.5,3.5,,,0,,0,0,0,,49,14,14," R 1,568.49 "
+1998,Sinelitha,Dywili,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,3.5,3.5,2,,,3.5,3.5,0,0,3.5,,,3.5,3.5,0,3.5,3.5,,,0,,0,0,0,,47.5,14,14," R 1,520.48 "
+1996,Obuhle,Dyeli,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,3.5,3.5,1,,,0,3.5,0,0,0.5,,,3.5,3.5,3.5,3,3.5,,,0,,0,0,0,,43,14,14," R 1,376.43 "
+1994,Sibabalwe,Dlova,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,3.5,,,0,0,0,0,0,,,0,3.5,0,0,1.5,,,3.5,3.5,3.5,2.5,0,,,0,,0,0,0,,25,8,8, R 800.25 
+1993,Liezel,Dirks,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,0,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,,0,0,0,,3.5,1,1, R 112.04 
+1991,Siyamthanda,Bunge,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3.5,3.5,,,0,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,3.5,,,0,3.5,3.5,3.5,3.5,,,0,,0,0,0,,45.5,13,13," R 1,456.46 "
+1990,Nevelisha,Brits,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,3.5,,,3.5,3.5,3.5,3.5,3.5,,,0,,0,0,0,,49,14,14," R 1,568.49 "
+1989,Siyavuya,Bokoyi,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3,2,,,0,3,3,3.5,0,,,0,3.5,0,0,3.5,,,0,0,2,3,3.5,,,0,,0,0,0,,30,10,11, R 960.30 
+1988,Siphesihle,Blouw,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,0,1.5,,,3.5,0,3.5,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,,0,0,0,,8.5,3,3, R 272.09 
+1987,Sinothando,Bholo,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,0,0,,,3.5,3.5,0,3.5,0,,,3,0,0,0,3.5,,,3.5,3.5,0,0,3.5,,,0,,0,0,0,,27.5,8,8, R 880.28 
+1986,Lebo,August,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,0,3,,,3.5,3.5,3,3.5,3.5,,,3,3,0,0,3.5,,,3.5,3.5,3.5,3.5,3,,,0,,0,0,0,,46.5,14,14," R 1,488.47 "
+1985,Ziyanda,Appolis,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3.5,0,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,3.5,,,3.5,3.5,3.5,3.5,3,,,0,,0,0,0,,48.5,14,14," R 1,552.49 "
+1768,Mahlatse,Nodlawu,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,0,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,3.5,,,3.5,3.5,3.5,3.5,3.5,,,0,,0,0,0,,49,14,14," R 1,568.49 "
+1765,Sesethu,Joni,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,3.5,,,3.5,3.5,3.5,3.5,3.5,,,0,,0,0,0,,52.5,15,15," R 1,680.53 "
+1667,Lathitha,Parkins,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,3.5,,,3.5,3.5,3.5,3.5,3.5,,,0,,0,0,0,,49,14,14," R 1,568.49 "
+1368,Portia Amanda,Tsibaphi,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,0,3.5,3.5,0,,,3.5,3.5,0,0,3.5,,,3.5,3.5,3.5,3.5,0,,,0,,0,0,0,,42,12,12," R 1,344.42 "
+980,Sivuyile,Tikise,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,0,3.5,,,0,3.5,3,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,,0,0,0,,10,3,3, R 320.10 
+706,Sinethemba,Mofu,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,3.5,,,3.5,3.5,3.5,3.5,3.5,,,0,,0,0,0,,52.5,15,15," R 1,680.53 "
+1992,Sinovuyo,Daweti,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,3.5,,,3.5,3.5,3.5,3.5,3.5,,,0,,0,0,0,,52.5,15,15," R 1,680.53 "
+2022,Ibenathi,Mbewu,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,0,0,,,0,3.5,3.5,3.5,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,,0,0,0,,10.5,3,3, R 336.11 
+2045,Mbali Blossom,Oliphant,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Zanele Nobadula,3.5,0,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,0,,,3.5,3.5,3.5,3.5,0,,,0,,0,0,0,,42,12,12," R 1,344.42 "
+2037,Sesethu,Ngcongo,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Zanele Nobadula,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,,0,0,0,,0,0,0, R -   
+1908,Anda,Mancam,Literacy Coach,Primary Schools,32.01,TLT,Masi,Faith Bolothi,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,,0,0,0,,0,0,0, R -   
+2067,Yonela,Booi,1000 Stories Youth,Primary Schools,32.01,TLT,Masi,Neliswa Skosana,3.5,0,,,3.5,3.5,3,3.5,0,,,3.5,3.5,0,0,0,,,-9.5,3.5,3.5,3.5,0,,,0,,0,0,0,,25,10,10, R 800.25 
+1972,Shandre,Calvert,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,3.5,,,3.5,3.5,3.5,3.5,3.5,,,0,,0,0,0,,49,14,14," R 1,568.49 "
+1957,Kirshia,Cooper,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,3.5,0,3.5,,,3,3.5,0,0,3.5,,,3.5,3.5,3.5,3.5,3.5,,,0,,0,0,0,,48.5,14,14," R 1,552.49 "
+1949,Abigail,Jokazi,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,3,,,0,3.5,3.5,3.5,3.5,,,0,,0,0,0,,45,13,13," R 1,440.45 "
+1627,Micaela,Boesak,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,3.5,0,0,,,3.5,3.5,0,0,3.5,,,3.5,3.5,3.5,3.5,3.5,,,0,,0,0,0,,45.5,13,13," R 1,456.46 "
+1644,Micheala,Bruiners,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Rayvial Coetzee,3.5,0,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,3.5,,,3.5,3.5,3.5,3.5,3.5,,,0,,0,0,0,,45.5,13,13," R 1,456.46 "
+1962,Lona,Mnono,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Rayvial Coetzee,0,0,,,3.5,3.5,0,0,0,,,3.5,0,0,0,0,,,0,1.5,3.5,0,0,,,0,,0,0,0,,15.5,5,6, R 496.16 
+1952,Donel,Bonaparte,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,0,,,3.5,3.5,3.5,3.5,0,,,0,,0,0,0,,45.5,13,13," R 1,456.46 "
+1953,Chelsea,Goliath,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,3.5,,,0,3.5,3.5,3.5,3.5,,,0,,0,0,0,,45.5,13,13," R 1,456.46 "
+1960,Lisakhanya,Dzeya,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,0,3.5,0,,,3.5,3.5,0,0,3.5,,,3.5,3.5,3.5,3.5,0,,,0,,0,0,0,,42,12,12," R 1,344.42 "
+1640,Rukaya,Weavel,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,3.5,,,3.5,3.5,3.5,3,3.5,,,0,,0,0,0,,48.5,14,14," R 1,552.49 "
+1977,Siyamtanda,Nkosinkulu,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,3.5,,,3.5,3.5,3.5,3.5,3.5,,,0,,0,0,0,,49,14,14," R 1,568.49 "
+1979,Xhanti,Mfuku,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Rayvial Coetzee,3.5,2.5,,,3.5,3.5,3.5,3.5,3.5,,,3,0,0,0,3.5,,,3.5,3,3.5,3.5,3.5,,,0,,0,0,0,,47,14,14," R 1,504.47 "
+2068,Raeesa,Ismail,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,0,0,0,3.5,,,3.5,0,0,0,3.5,,,3.5,0,0,3.5,3.5,,,0,,0,0,0,,31.5,9,9," R 1,008.32 "
+2079,Lihle,Stofile,Literacy Coach,Primary Schools,32.01,TLT,Rural,Busisiwe Ndlela,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,0,4.5,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,0,,0,0,0,,72,16,17," R 2,304.72 "
+2077,Mihlali,Skoti,Literacy Coach,Primary Schools,32.01,TLT,Rural,Busisiwe Ndlela,4.5,4.5,,,0,4.5,4.5,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,0,,0,0,0,,72,16,16," R 2,304.72 "
+2073,Kungawo,Sam,Literacy Coach,Primary Schools,32.01,TLT,Rural,Busisiwe Ndlela,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,0,,0,0,0,,76.5,17,17," R 2,448.77 "
+1963,Mandiluve,Teyise,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,0,3.5,0,,,0,3.5,0,0,3.5,,,2.5,3.5,3.5,3.5,0,,,0,,0,0,0,,37.5,11,11," R 1,200.38 "
+1961,Lisenathi,September,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Zanele Nobadula,3.5,3.5,,,0,3.5,3.5,3.5,3.5,,,3,3,0,0,0,,,0,0,3.5,-9,-9,,,0,,0,0,0,,12.5,9,9, R 400.13 
+1955,Esona,Lambani,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,0,0,3,,,0,0,0,0,0,,,3.5,3,3.5,3.5,3.5,,,0,,0,0,0,,34,10,10," R 1,088.34 "
+1958,Sibahle,Mancam,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Zanele Nobadula,3.5,0,,,3,3,3.5,3.5,0,,,3.5,0,0,0,3.5,,,3,3.5,3,3.5,0,,,0,,0,0,0,,36.5,11,11," R 1,168.37 "
+2069,Thandokazi,Magabela,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,0,,,3.5,3.5,3.5,3.5,3,,,3.5,3.5,0,0,3.5,,,0,3.5,3,3.5,3.5,,,0,,0,0,0,,44.5,13,13," R 1,424.45 "
+2071,Awethu,Ndwayi,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,2,0,,,2.5,2.5,2.5,2.5,2.5,,,0,0,0,0,0,,,0,2.5,2.5,0,0,,,0,,0,0,0,,19.5,8,8, R 624.20 
+1974,Sinomtha,Mgqolozana,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Zanele Nobadula,3.5,3.5,,,3.5,0,3.5,3.5,3.5,,,3.5,3.5,0,0,0,,,3.5,3.5,0,0,3,,,0,,0,0,0,,38,11,11," R 1,216.38 "
+1978,Timna,Lukwe,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3,3,3,0,,,3.5,3,0,0,3.5,,,3.5,3.5,3.5,3.5,3,,,0,,0,0,0,,46.5,14,14," R 1,488.47 "
+2072,Anda,Nosilela,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,3.5,,,3.5,0,3.5,3.5,3.5,,,3,3.5,0,0,3,,,3.5,3.5,3.5,3.5,3.5,,,0,,0,0,0,,48,14,14," R 1,536.48 "
+2075,Palesa,Selekane,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3,3,,,3.5,3.5,3.5,3.5,3.5,,,0,3.5,0,0,3.5,,,3.5,3.5,3.5,3.5,0,,,0,,0,0,0,,44.5,13,13," R 1,424.45 "
+2070,Lerato,Mkonko,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,0,0,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,0,,,3.5,3.5,3.5,3.5,0,,,0,,0,0,0,,38.5,11,11," R 1,232.39 "
+1975,Sinothando,Mtati,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,0,3.5,0,0,3.5,,,3.5,3.5,3.5,3.5,3.5,,,0,,0,0,0,,49,14,14," R 1,568.49 "
+1967,Nomaswazi,Nkosi,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,0,3.5,0,0,3.5,,,3.5,3.5,3.5,3.5,3.5,,,0,,0,0,0,,49,14,14," R 1,568.49 "
+1968,Nokonwaba,Nkohla,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Zanele Nobadula,0,3.5,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,3.5,,,3.5,3.5,3.5,3.5,3.5,,,0,,0,0,0,,45.5,13,13," R 1,456.46 "
+1973,Sinesipho,Mzwakali,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,3.5,,,3.5,3.5,3.5,3.5,3.5,,,0,,0,0,0,,49,14,14," R 1,568.49 "
+1896,Sinathi,Magutywa,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,3.5,,,3.5,3.5,3.5,3.5,3.5,,,0,,0,0,0,,52.5,15,15," R 1,680.53 "
+2085,Ntombentsha,Matole,Literacy Coach,Primary Schools,32.01,Masi,Masi,Simamkele Sali,4.5,0,,,4.5,4.5,4.5,4.5,0,,,4.5,4.5,0,0,0,,,0,4.5,4.5,4.5,4,,,0,,0,0,0,,49,11,11," R 1,568.49 "
+2091,Luphiwo,Ntukantu,Literacy Coach,Primary Schools,32.01,Masi,Masi,Kariena Tsaoane,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,0,,,4.5,4.5,4.5,4.5,4.5,,,0,,0,0,0,,63,14,14," R 2,016.63 "
+2095,Micole,Goliath,Literacy Coach,Primary Schools,32.01,Masi,Masi,Kariena Tsaoane,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,0,,,4.5,4.5,4.5,4.5,4.5,,,0,,0,0,0,,63,14,14," R 2,016.63 "
+2082,Makukhanye,Dayimane,Literacy Coach,Primary Schools,32.01,TLT,Masi,Ziyanda Fayindlala,4.5,0,,,0,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,4.5,4.5,4.5,4.5,4.5,,,0,,0,0,0,,58.5,13,13," R 1,872.59 "
+2090,Salizwa,Ngantweni,Literacy Coach,Primary Schools,32.01,TLT,Masi,Ziyanda Fayindlala,4.5,3.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,4.5,4.5,4.5,4.5,0,,,0,,0,0,0,,62,14,14," R 1,984.62 "
+2083,Somilasande,Dekeda,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,3.5,,,3.5,3.5,3.5,0,0,,,0,,0,0,0,,45.5,13,13," R 1,456.46 "
+1237,Amlindile,Maneli,EduTech Coach,Primary Schools,32.01,TLT,Masi,Neliswa Skosana,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,,0,0,0,,0,0,0, R -   
+2092,Siyamthanda,Twani,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,3.5,3.5,1,,,0,3.5,0,0,3.5,,,3,3.5,3.5,3.5,3.5,,,0,,0,0,0,,46,14,14," R 1,472.46 "
+1442,Asive,Dyatyie,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,3.5,,,3.5,3.5,3.5,3.5,3.5,,,0,,0,0,0,,49,14,14," R 1,568.49 "
+2112,Anathi,Stoot,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,3.5,,,0,3.5,3.5,3.5,0,,,0,3.5,0,0,3.5,,,3.5,3.5,3.5,3.5,3.5,,,0,,0,0,0,,42,12,12," R 1,344.42 "
+2104,Asiphe,Mayinje,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,,0,0,0,,0,0,0, R -   
+2102,Claudine,Myburg,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Rayvial Coetzee,0,3.5,,,3.5,3.5,0,3.5,0,,,3.5,3.5,0,0,3.5,,,3.5,3.5,0,-9,0,,,0,,0,0,0,,22.5,9,9, R 720.23 
+2106,Deborah,Scheerpers,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,3.5,0,3.5,,,3.5,3.5,0,0,3.5,,,3.5,3.5,3,3.5,3.5,,,0,,0,0,0,,48.5,14,14," R 1,552.49 "
+2113,Lauren,Jordaan,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,0,,,3.5,3.5,3.5,3.5,3.5,,,0,,0,0,0,,49,14,14," R 1,568.49 "
+2110,Jayden,Human,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,0,3.5,,,3.5,3.5,0,3.5,0,,,3,3.5,0,0,3.5,,,3,3,2,3,3.5,,,0,,0,0,0,,38.5,12,12," R 1,232.39 "
+2094,Farren,Afrika,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,0,3.5,3.5,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,,0,0,0,,17.5,5,5, R 560.18 
+2096,Alnechia,Makwena,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Rayvial Coetzee,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,,0,0,0,,0,0,0, R -   
+2097,Yolanda,Ngcikwe,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Rayvial Coetzee,3.5,0,,,3,0,0,0,3.5,,,0,3,0,0,0,,,0,3.5,2.5,3.5,0,,,0,,0,0,0,,22.5,7,7, R 720.23 
+2098,Carryn,Thobi,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,3.5,,,3.5,3.5,3.5,3.5,0,,,0,,0,0,0,,49,14,14," R 1,568.49 "
+2099,Katelin,Olivier,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,0,0,0,0,0,,,3.5,3.5,3.5,3.5,0,,,0,,0,0,0,,38.5,11,11," R 1,232.39 "
+2100,Marishca Mary,Human,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,3,3.5,0,0,3.5,,,3.5,3.5,3.5,3.5,3.5,,,0,,0,0,0,,52,15,15," R 1,664.52 "
+2101,Jessica,Tonjeni,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Rayvial Coetzee,3.5,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,,0,0,0,,3.5,1,1, R 112.04 
+2103,Sisipho,Ngwane,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Zanele Nobadula,3,0,,,3.5,3.5,0,3.5,3,,,3,3.5,0,0,2,,,3,3,3.5,3.5,3,,,0,,0,0,0,,41,13,13," R 1,312.41 "
+2105,Esona,Kota,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Zanele Nobadula,3.5,0,,,3,3.5,0,3.5,0,,,0,3.5,0,0,3.5,,,3.5,3.5,3.5,0,0,,,0,,0,0,0,,31,9,9, R 992.31 
+2107,Sesona,Maneli,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,3.5,,,3.5,3.5,3.5,3.5,3.5,,,0,,0,0,0,,52.5,15,15," R 1,680.53 "
+2108,Lolwethu,Thys,Zazi Izandi Coach,Primary Schools,32.01,TLT,Masi,Zanele Nobadula,3.5,1.5,,,3,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,,0,0,0,,8,3,3, R 256.08 
+2109,Onela,Madlingozi,1000 Stories Youth,Primary Schools,32.01,TLT,Masi,Neliswa Skosana,3.5,0,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,0,,,3.5,3.5,3.5,3.5,0,,,0,,0,0,0,,38.5,11,11," R 1,232.39 "
+2111,Phiwokuhle,Menze,1000 Stories Youth,Primary Schools,32.01,TLT,Masi,Neliswa Skosana,3.5,0,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,3.5,,,3.5,3.5,3.5,3.5,0,,,0,,0,0,0,,42,12,12," R 1,344.42 "
+1885,Qhama,Fikayo,EduTech Coach,Primary Schools,32.01,TLT,Masi,Neliswa Skosana,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,3.5,,,3.5,3.5,3.5,3.5,3.5,,,0,,0,0,0,,52.5,15,15," R 1,680.53 "
+2125,Iviwe,Marawu,Literacy Coach,Primary Schools,32.01,Masi,Masi,Faith Bolothi,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,4.5,4.5,0,4.5,4.5,,,0,,0,0,0,,63,14,14," R 2,016.63 "
+2121,Masande,Mooi,Literacy Coach,Primary Schools,32.01,Masi,Masi,Faith Bolothi,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,4.5,4.5,4.5,4.5,4.5,,,0,,0,0,0,,67.5,15,15," R 2,160.68 "
+2119,Songe,Mrwebo,Literacy Coach,Primary Schools,32.01,Masi,Masi,Faith Bolothi,4.5,4.5,,,4.5,4.5,4.5,4.5,4.5,,,0,4.5,0,0,4.5,,,4.5,0,4.5,4.5,4.5,,,0,,0,0,0,,58.5,13,13," R 1,872.59 "
+2120,Anam,Mrwebo,Literacy Coach,Primary Schools,32.01,Masi,Masi,Faith Bolothi,4.5,4.5,,,4.5,0,4.5,4.5,4.5,,,4.5,4.5,0,0,4.5,,,0,4.5,4.5,4.5,4.5,,,0,,0,0,0,,58.5,13,13," R 1,872.59 "
+2115,Khanyisile,Matebese,Literacy Coach,Primary Schools,32.01,Masi,Masi,Ziyanda Fayindlala,4.5,4,,,4.5,4.5,4.5,4.5,4,,,4.5,4.5,0,0,4,,,4.5,4.5,4.5,4.5,4,,,0,,0,0,0,,65.5,15,15," R 2,096.66 "
+2126,Zintle,Tukani,1000 Stories Youth,Primary Schools,32.01,Masi,Masi,Neliswa Skosana,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,,0,0,0,,0,0,0, R -   
+2127,Kuhle,Mbulelo,1000 Stories Youth,Primary Schools,32.01,Masi,Masi,Neliswa Skosana,3.5,0,,,3.5,0,3.5,3.5,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,,0,0,0,,14,4,4, R 448.14 
+2117,Asavela,Diko,Numeracy Coach,ECDCs,32.01,Masi,Masi,Sibonokuhle Lugogo,0,0,,,4,4,4,0,0,,,3.5,4,4,0,0,,,0,4,4,2,3.5,,,0,,0,0,0,,37,10,10," R 1,184.37 "
+2114,Nomaxabiso,Mangai,ZZ ECD Coach,ECDCs,32.01,Masi,Masi,Andiswa Manona,3.5,0,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,0,,,3.5,3.5,3.5,3.5,0,,,0,,0,0,0,,38.5,11,11," R 1,232.39 "
+2116,Asiphe,Biko,Numeracy Coach,ECDCs,32.01,Masi,Masi,Sibonokuhle Lugogo,4,4,,,4,4,4,4,4,,,4,4,4,0,4,,,4,4,4,4,4,,,0,,0,0,0,,64,16,16," R 2,048.64 "
+2132,Cecelia,Lewies,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,3.5,3.5,3,,,3.5,3,0,0,0,,,3,0,3.5,3.5,3.5,,,0,,0,0,0,,44,13,13," R 1,408.44 "
+2147,Nadine,Abrahams,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,0,0,3.5,3.5,,,3.5,0,0,0,3.5,,,3.5,3.5,3.5,0,2,,,0,,0,0,0,,37,11,11," R 1,184.37 "
+2135,Onela,Ngqumshe,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3,3.5,,,3.5,0,3.5,3.5,0,,,2.5,2.5,0,0,3.5,,,0,3.5,3.5,3.5,0,,,0,,0,0,0,,36,11,12," R 1,152.36 "
+966,Sisipho,Mabangula,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3,3.5,,,3,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,0,,,3.5,3,3.5,3.5,3.5,,,0,,0,0,0,,47.5,14,14," R 1,520.48 "
+2137,Bridgette,Baatjies,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3.5,0,,,3.5,0,0,3.5,3.5,,,3.5,3.5,0,0,3.5,,,3.5,3.5,0,3.5,3.5,,,0,,0,0,0,,38.5,11,11," R 1,232.39 "
+2129,Noloyiso,Macanda,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,0,,,3.5,3.5,3.5,3.5,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,,0,0,0,,17.5,5,5, R 560.18 
+2130,Asemahle,Baby,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,1,3.5,0,0,3.5,,,0,1,0,3.5,3.5,,,0,,0,0,0,,40.5,13,15," R 1,296.41 "
+2144,Emihle,Makeleni,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,0,3.5,,,0,3,3,2.5,3,,,3.5,2.5,0,0,0,,,0,0,0,2.5,0,,,0,,0,0,0,,23.5,8,10, R 752.24 
+2133,Shanay,George,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,0,3.5,,,3.5,0,3.5,3.5,3.5,,,3.5,3.5,0,0,3.5,,,3.5,3.5,3.5,3.5,3.5,,,0,,0,0,0,,45.5,13,13," R 1,456.46 "
+2128,Phaphama,Johnson,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,3.5,3.5,,,0,0,0,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,,0,0,0,,7,2,2, R 224.07 
+2139,Asemahle,Wakashe,EduTech Coach,Primary Schools,32.01,Masi,Masi,Neliswa Skosana,3.5,3.5,,,3.5,3.5,3.5,3.5,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,,0,0,0,,21,6,6, R 672.21 
+2142,Simamkele,Phatho,Literacy Coach,Primary Schools,32.01,Masi,Masi,Faith Bolothi,4.5,4.5,,,4.5,4.5,3,4.5,4.5,,,4.5,4.5,0,0,0,,,4.5,4.5,4.5,4.5,4.5,,,0,,0,0,0,,61.5,14,14," R 1,968.62 "
+2148,Anovuyo,Manjezi,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,0,0,,,3,3.5,3.5,3.5,0,,,3.5,3.5,0,0,3.5,,,3.5,3.5,3.5,3.5,3.5,,,0,,0,0,0,,41.5,12,12," R 1,328.42 "
+2150,Lihle,Tshabe,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,0,0,,,3.5,3.5,3.5,3.5,0,,,0,0,0,0,3.5,,,0,3.5,3.5,3.5,0,,,0,,0,0,0,,28,8,8, R 896.28 
+2149,Xhantilomzi,Manjezi,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Zanele Nobadula,0,0,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,3.5,,,3.5,3.5,3.5,3.5,3.5,,,0,,0,0,0,,45.5,13,13," R 1,456.46 "
+2153,Anelisiwe,Gitywa,ZZ ECD Coach,ECDCs,32.01,Masi,Masi,Sibonokuhle Lugogo,0,0,,,0,0,3.5,3.5,0,,,3.5,3.5,0,0,0,,,3.5,3.5,0,3.5,0,,,0,,0,0,0,,24.5,7,8, R 784.25 
+2154,Siphesihle,Majali,1000 Stories Youth,Primary Schools,32.01,TLT,Rural,Busisiwe Ndlela,3.5,3.5,,,3.5,3.5,3,3.5,3,,,3.5,3.5,3.5,3.5,3,,,3.5,3.5,3.5,3.5,0,,,0,,0,0,0,,54.5,16,16," R 1,744.55 "
+2146, Oyama Mzazoyana,Mzozoyana,Literacy Coach,Primary Schools,32.01,Masi,Masi,Faith Bolothi,3.5,4,,,3.5,3.5,4,4,3.5,,,3.5,0,0,0,3.5,,,3.5,3.5,3.5,4,3.5,,,0,,0,0,0,,51,14,14," R 1,632.51 "
+1022,Anathi Fina,Fina,Assessor,Primary Schools,32.01,Masi,Masi,Buyiswa Xaba,0,0,,,0,0,0,1,0,,,0,3.5,0,0,0,,,3.5,3.5,0,3.5,0,,,0,,0,0,0,,15,5,5, R 480.15 
+2164,Anelisa Erasmus,Erasmus,Assessor,Primary Schools,32.01,Masi,Masi,Buyiswa Xaba,0,0,,,0,0,0,0.5,0,,,2.5,0,0,0,0,,,2.5,0.5,2.5,3.5,0,,,0,,0,0,0,,12,6,6, R 384.12 
+2140,Anelisa Maqholo,Maqholo,1000 Stories Youth,Primary Schools,32.01,Masi,Masi,Neliswa Skosana,0,0,,,0,2,3.5,3.5,0,,,3.5,3.5,0,0,0,,,3.5,3.5,3.5,3.5,0,,,0,,0,0,0,,30,9,9, R 960.30 
+1448,Anelisa Ndema,Ndema,1000 Stories Youth,Primary Schools,32.01,Masi,Masi,Neliswa Skosana,0,0,,,3,0,3.5,3.5,0,,,0,3.5,0,0,0,,,0,0,0,3.5,0,,,0,,0,0,0,,17,5,7, R 544.17 
+2163,Aphelele Mhletywa,Mhletywa,Assessor,Primary Schools,32.01,Masi,Masi,Buyiswa Xaba,0,0,,,0,0,0,0.5,0,,,1,0,0,0,0,,,3,1.5,0,3.5,0,,,0,,0,0,0,,9.5,5,5, R 304.10 
+2168,Asanda Williams,Williams,Literacy Coach,Primary Schools,32.01,Masi,Rural,Simamnkele Sali,0,0,,,0,3,4.5,4.5,4.5,,,4.5,4.5,0,0,0,,,0,4.5,4.5,4.5,4.5,,,0,,0,0,0,,43.5,10,10," R 1,392.44 "
+2165,Asemahle Memani,Memani,Assessor,Primary Schools,32.01,Masi,Masi,Buyiswa Xaba,0,0,,,0,0,0,0,1,,,0,0,0,0,0,,,3.5,3.5,3.5,0,0,,,0,,0,0,0,,11.5,4,5, R 368.12 
+1515,Asiphe Vanqa,Vanqa,Assessor,Primary Schools,32.01,Masi,Masi,Buyiswa Xaba,0,0,,,0,0,0,0,0,,,3.5,3,0,0,0,,,0,3,3,3.5,0,,,0,,0,0,0,,16,5,5, R 512.16 
+2088,Beryl-Lee Morris,Morries,Assessor,Primary Schools,32.01,Masi,Masi,Buyiswa Xaba,0,0,,,0,0,0,0,0,,,3.5,3.5,0,0,0,,,3.5,3.5,3.5,3.5,3.5,,,0,,0,0,0,,24.5,7,7, R 784.25 
+2078,Carlin Stowman,Stowman,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,3.5,,,3.5,3.5,3.5,3.5,3.5,,,0,,0,0,0,,52.5,15,15," R 1,680.53 "
+2145,Kamvalethu  Kama,Kama,EduTech Coach,Primary Schools,32.01,Masi,Masi,Neliswa Skosana,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,3.5,0,0,0,0,,,3.5,0,3.5,3.5,3.5,,,0,,0,0,0,,42,12,12," R 1,344.42 "
+2159,Lathitha Zinto,Zinto,Assessor,Primary Schools,32.01,Masi,Masi,Buyiswa Xaba,0,0,,,0,0,0,0,0,,,1,3.5,0,0,0,,,3.5,3.5,3.5,3.5,0,,,0,,0,0,0,,18.5,6,6, R 592.19 
+2151,Mihlali Hlulani,Hlulani,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,3.5,,,3.5,3.5,3.5,3.5,3.5,,,0,,0,0,0,,52.5,15,15," R 1,680.53 "
+1836,Nombulelo Nofemele,Nofemele,Literacy Coach,Primary Schools,32.01,Masi,Rural,Simamnkele Sali,0,0,,,0,4,4.5,4.5,4.5,,,0,0,0,0,0,,,4.5,0,4.5,4.5,3.5,,,0,,0,0,0,,34.5,8,8," R 1,104.35 "
+2157,Nomthandazo Mkele,Mkele,Numeracy Coach,Primary Schools,32.01,Masi,Masi,Sibonokuhle Lugogo,0,0,,,0,0,4,4,4,,,4,4,4,0,4,,,4,4,4,4,4,,,0,,0,0,0,,48,12,12," R 1,536.48 "
+2161,Ntomboxolo Rooiland,Rooilanda,Assessor,Primary Schools,32.01,Masi,Masi,Buyiswa Xaba,0,0,,,0,0,0,0,0,,,1.5,0,0,0,0,,,3.5,3,0,3.5,0,,,0,,0,0,0,,11.5,4,5, R 368.12 
+2162,Othandwayo Rodrigues,Rodrigues,Assessor,Primary Schools,32.01,Masi,Masi,Buyiswa Xaba,0,0,,,0,0,0,0.5,0,,,1.5,0,0,0,0,,,3.5,3.5,0,2,0,,,0,,0,0,0,,11,5,5, R 352.11 
+2152,Sage Adams,Adams,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,0,0,,,3.5,3.5,3.5,3.5,3.5,,,3.5,3.5,0,0,3.5,,,3.5,3.5,3.5,3.5,3.5,,,0,,0,0,0,,45.5,13,13," R 1,456.46 "
+2156,Skyla-Janne Hitzeroth,Hitzeroth,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,3.5,,,3.5,3.5,3.5,3.5,3.5,,,0,,0,0,0,,49,14,14," R 1,568.49 "
+2160,Wyatt Woodward,Woodward,Assessor,Primary Schools,32.01,Masi,Masi,Buyiswa Xaba,0,0,,,0,0,0,0,0,,,0,3.5,0,0,0,,,3.5,3.5,3.5,3.5,0,,,0,,0,0,0,,17.5,5,6, R 560.18 
+2008,Zukisiwe Lomani,Lomani,Assessor,Primary Schools,32.01,Masi,Masi,Buyiswa Xaba,0,0,,,0,0,0,3.5,3.5,,,3.5,3.5,0,0,0,,,3.5,3.5,3.5,3.5,0,,,0,,0,0,0,,28,8,8, R 896.28 
+2167,Chulumanco,Zalabe,ZZ ECD Coach,ECDCs,32.01,TLT,Masi,Andiswa Manona,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,3.5,3.5,3.5,3.5,3,,,0,,0,0,0,,17,5,5, R 544.17 
+2166,Iviwe,Mjebeza,ZZ ECD Coach,ECDCs,32.01,TLT,Masi,Andiswa Manona,0,0,,,0,0,0,0,0,,,0,0,0,0,0,,,0,3.5,3.5,0,0,,,0,,0,0,0,,7,2,2, R 224.07 
+1451,Siphosethu,Kula,Zazi Izandi Coach,Primary Schools,32.01,Masi,Masi,Rayvial Coetzee,3.5,3.5,,,3.5,3.5,3.5,3.5,0,,,3.5,3.5,0,0,0,,,2.5,3.5,3.5,3.5,2.5,,,0,,0,0,0,,43.5,13,13," R 1,392.44 "

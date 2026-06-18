@@ -39,7 +39,7 @@ check_out_columns = [
 ]
 
 # Stop attendance calculations/display at this column so future days are excluded.
-ATTENDANCE_END_COLUMN = "5 June Check out"
+ATTENDANCE_END_COLUMN = "12 June Check out"
 if ATTENDANCE_END_COLUMN in check_out_columns:
     end_idx = check_out_columns.index(ATTENDANCE_END_COLUMN) + 1
     check_in_columns = check_in_columns[:end_idx]
@@ -244,12 +244,6 @@ if pd.notna(official_days):
         int(official_days),
     )
 
-# Warning Section
-if employee["Missing Days"] != "" or employee["Check In"] == employee["Check Out"]:
-    st.error(
-        f"WARNING: Missing check-in/out for {employee['Missing Days']} or check-in/out is the same"
-    )
-
 # Show Daily Details
 st.subheader("Daily Attendance")
 
@@ -267,6 +261,26 @@ for in_col, out_col in zip(check_in_columns, check_out_columns):
     })
 
 attendance_df = pd.DataFrame(attendance_data)
+
+same_time_days = attendance_df.loc[
+    attendance_df["Check In"].notna()
+    & attendance_df["Check Out"].notna()
+    & (attendance_df["Check In"] == attendance_df["Check Out"]),
+    "Day",
+].tolist()
+
+warning_messages = []
+if employee["Missing Days"] != "":
+    warning_messages.append(
+        f"Missing check-in/out for {employee['Missing Days']}"
+    )
+if same_time_days:
+    warning_messages.append(
+        f"Check-in/out is the same on {', '.join(same_time_days)}"
+    )
+
+if warning_messages:
+    st.error(f"WARNING: {' or '.join(warning_messages)}")
 
 # Colour missing days
 
