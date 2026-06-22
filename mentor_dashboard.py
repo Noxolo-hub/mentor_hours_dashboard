@@ -39,7 +39,7 @@ check_out_columns = [
 ]
 
 # Stop attendance calculations/display at this column so future days are excluded.
-ATTENDANCE_END_COLUMN = "15 June Check out"
+ATTENDANCE_END_COLUMN = "19 June Check out"
 if ATTENDANCE_END_COLUMN in check_out_columns:
     end_idx = check_out_columns.index(ATTENDANCE_END_COLUMN) + 1
     check_in_columns = check_in_columns[:end_idx]
