@@ -11,8 +11,8 @@ st.write("This dashboard is designed to help you track and view your worked hour
 
 # Load CSV data
 
-timesheet_df = pd.read_csv("Consolidated - Masi Youth Hours May_June 2026 - Timesheet.csv")
-hours_df = pd.read_csv("Consolidated - Masi Youth Hours May_June 2026 - Hours.csv")
+timesheet_df = pd.read_csv("Consolidated - Masi Youth Hours June_July 2026 - Timesheet.csv")
+hours_df = pd.read_csv("Consolidated - Masi Youth Hours June_July 2026 - Hours.csv")
 
 # Normalize IDs so merge keys always have consistent type/format.
 def normalize_employee_id(series):
@@ -39,7 +39,7 @@ check_out_columns = [
 ]
 
 # Stop attendance calculations/display at this column so future days are excluded.
-ATTENDANCE_END_COLUMN = "19 June Check out"
+ATTENDANCE_END_COLUMN = "26 June Check out"
 if ATTENDANCE_END_COLUMN in check_out_columns:
     end_idx = check_out_columns.index(ATTENDANCE_END_COLUMN) + 1
     check_in_columns = check_in_columns[:end_idx]
